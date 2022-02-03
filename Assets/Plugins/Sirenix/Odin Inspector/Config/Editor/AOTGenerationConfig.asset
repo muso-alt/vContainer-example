@@ -1,0 +1,466 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1726182683, guid: a4865f1ab4504ed8a368670db22f409c, type: 3}
+  m_Name: AOTGenerationConfig
+  m_EditorClassIdentifier: 
+  automateBeforeBuilds: 1
+  deleteDllAfterBuilds: 1
+  AutomateForAllAOTPlatforms: 0
+  automateForPlatforms: 0900000014000000
+  lastScan: 637698977394054284
+  supportSerializedTypes:
+  - TypeName: AmayaSoft.Numbers.CatchNumber.AnimationPlay, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.AudioSource, UnityEngine.AudioModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.SpawnerModule.Datas.BaseSpawnerData`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule]], SpawnerModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.BoxCollider2D, UnityEngine.Physics2DModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: MS.Internal.Xml.XPath.ClonableStack`1[[AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueSetter`1[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule]], CommonBehaviourModule]], System.Xml
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Collider2D, UnityEngine.Physics2DModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Color, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.Common.Coloring.ColorByIdentifier, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.Common.Coloring.ColorByIdentifier[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.LogicalChain.ColorizeByIdentifier, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.LogicalChain.ColorizeByIdentifier[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Single, mscorlib],[UnityEngine.Vector2,
+      UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.Numbers.Hint.HintBehaviourType,
+      Assembly-CSharp],[AmayaSoft.Numbers.Hint.IHintHideBehaviour, Assembly-CSharp]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.Numbers.Hint.HintCounterType,
+      Assembly-CSharp],[AmayaSoft.Numbers.Hint.Data.HintCounterData, Assembly-CSharp]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.Numbers.Hint.HintCounterType,
+      Assembly-CSharp],[AmayaSoft.CoreFramework.CommonBehaviourModule.Counters.ICountable,
+      CommonBehaviourModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.Numbers.CatchNumber.IdentifierHolder,
+      Assembly-CSharp],[AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueSetter`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule]], CommonBehaviourModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[UnityEngine.GameObject,
+      UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[AmayaSoft.CoreFramework.ActionModule.IAction,
+      ActionModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule],[UnityEngine.Color, UnityEngine.CoreModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule],[UnityEngine.GameObject, UnityEngine.CoreModule]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule],[AmayaSoft.CoreFramework.ActionModule.IAction, ActionModule]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule],[System.String, mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.Dictionary`2[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule],[UnityEngine.Transform, UnityEngine.CoreModule]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[AmayaSoft.Numbers.Hint.HintBehaviourType,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[AmayaSoft.Numbers.Hint.HintCounterType,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Single, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.GameObject, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.SpawnerModule.Datas.GameObjectsSpawnerData,
+      SpawnerModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.GenericEqualityComparer`1[[System.Single,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+      mscorlib]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.Hint.HintBehaviourType, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.Hint.Data.HintCounterData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.Hint.HintCounterType, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.ActionModule.IAction, ActionModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IActionInvoker, TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IActionsObserver, TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaCore.Scroll.Interfaces.ICentrable, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaAlphabet.LetterConveyor.Utils.Filters.IColliderWithinHorizontalRangeFilter,
+      Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.RenderingModule.ColorChangers.IColorData, RenderingModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaAlphabet.Utils.Colorizers.Interfaces.IColorizer, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.RenderingModule.ColorChangers.IColorizer, RenderingModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.RenderingModule.ColorChangers.IColorizer[],
+      RenderingModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaAlphabet.Utils.Colorizers.Interfaces.IColorizer[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.StackableObjects.IConfigurableObjectsStack`1[[AmayaSoft.TaskBasedGameplayFramework.StackableObjects.IOverlaidPiece`1[[UnityEngine.Collider2D,
+      UnityEngine.Physics2DModule]], StackableObjects]], StackableObjects
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaCore.Scroll.Interfaces.IContentView, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.CommonBehaviourModule.Counters.ICountable,
+      CommonBehaviourModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.SkinFramework.CoreModule.Slots.Identifier, SkinFramework
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.IdentifierHolder, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.Data.IdentifiersData,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[System.Single, mscorlib]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[AmayaSoft.Numbers.Hint.HintBehaviourType,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[AmayaSoft.Numbers.Hint.HintCounterType,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[AmayaSoft.Numbers.CatchNumber.IdentifierHolder,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[System.Int32, mscorlib]],
+      mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.SpawnerModule.IFactory`2[[UnityEngine.AudioSource,
+      UnityEngine.AudioModule],[UnityEngine.GameObject, UnityEngine.CoreModule]],
+      SpawnerModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.FiltersModule.IFilterBehaviour, FiltersModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.FiltersModule.IFilterBehaviour[], FiltersModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.Hint.IHintHideBehaviour, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaAlphabet.LetterConveyor.Requirements.Interfaces.IItemProvider`1[[AmayaAlphabet.LetterConveyor.Hint.RequiredItem,
+      Assembly-CSharp]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.Menu.Interfaces.IMoveListener, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.Menu.Interfaces.IMoveListener[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Int32[], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.PuzzleNumbers.Interfaces.INumbersCellGenerator`1[[AmayaSoft.TaskBasedGameplayFramework.PuzzleGameplay.PuzzleIdentifierObject[],
+      PuzzleGameplayModule]], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier[],
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.RenderingModule.Shapes.IObjectShapeBounds,
+      RenderingModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.RenderingModule.Shapes.IObjectShapeBounds[],
+      RenderingModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.StackableObjects.IOverlaidPiece`1[[UnityEngine.Collider2D,
+      UnityEngine.Physics2DModule]], StackableObjects
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.SpawnerModule.PlacedObjects.IPlaceChecker,
+      SpawnerModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.SpawnerModule.IPooler`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule]], SpawnerModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.TransformModule.PositionDisplacement.IPositionSetter,
+      TransformModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.LogicalChain.Interfaces.IPurposeful, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IPurposeOrderModifier,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.PuzzleGameplay.IPuzzleCellGenerator`1[[AmayaSoft.TaskBasedGameplayFramework.PuzzleGameplay.PuzzleIdentifierObject[],
+      PuzzleGameplayModule]], PuzzleGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.PuzzleGameplay.IPuzzleTargetPositionComparer,
+      PuzzleGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.UtilsModule.Randomized.IRandomizer, UtilsModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.PhysicsModule.RayCasts.IRayCastTrigger, PhysicsModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.RenderingModule.Faders.IRendererAlphaChannel,
+      RenderingModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.CommonBehaviourModule.Colliders.IResizableColliderConfigure`1[[UnityEngine.BoxCollider2D,
+      UnityEngine.Physics2DModule]], CommonBehaviourModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.AudioModule.Interfaces.ISoundIdentifier, AudioModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.ITaskActionVisualizerProvider,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.TransformModule.PositionDisplacement.ITransformPositionConfigurable,
+      TransformModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.TransformModule.PositionDisplacement.ITransformPositionConfigurable[],
+      TransformModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: Amayasoft.Numbers.Common.Tutorials.ITutorialPlayer, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueGetter`1[[System.Int32,
+      mscorlib]], CommonBehaviourModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueSetter`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule]], CommonBehaviourModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueSetter`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]][],
+      CommonBehaviourModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueSetter`1[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule]], CommonBehaviourModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.UtilsModule.Transferers.IValueTransferer`2[[UnityEngine.Vector2,
+      UnityEngine.CoreModule],[UnityEngine.Vector2, UnityEngine.CoreModule]], UtilsModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.IVisualData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.IVisualDataHolder, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.IVisualization, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.IVisualization[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IVisualizationPlayer,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IVisualizationProvider,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IVisualizer, TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.IVisualizer[], TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[AmayaSoft.CoreFramework.TransformModule.PositionDisplacement.IPositionSetter,
+      TransformModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[AmayaSoft.CoreFramework.CommonBehaviourModule.ValueSetters.IValueSetter`1[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule]], CommonBehaviourModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[AmayaSoft.Numbers.CatchNumber.IVisualData,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[AmayaSoft.Numbers.CatchNumber.IVisualDataHolder,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[AmayaSoft.Numbers.PickTheNumber.PickTheNumberCardSpawnData,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.Data.NumberVisualizationData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.Data.NumberVisualizer, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Object, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.ObjectEqualityComparer`1[[AmayaSoft.Numbers.CatchNumber.IdentifierHolder,
+      Assembly-CSharp]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.ObjectEqualityComparer`1[[AmayaSoft.TaskBasedGameplayFramework.CoreModule.IObjectIdentifier,
+      TaskBasedGameplayModule]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.CoreModule.Data.ObjectIdentifierData,
+      TaskBasedGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.Data.ObjectVisualData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.PopingItems.Data.PatternByColorIdentifier, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.PopingItems.Data.PatternByColorIdentifier[], Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.PickTheNumber.PickTheNumberCardSpawnData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.TaskBasedGameplayFramework.PuzzleGameplay.PuzzleIdentifierObject[],
+      PuzzleGameplayModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.Data.RandomObjectVisualData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaAlphabet.LetterConveyor.Hint.RequiredItem, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.CoreFramework.AudioModule.SoundLibrary, AudioModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.String, mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.String[], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Transform, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: UnityEngine.Vector2, UnityEngine.CoreModule
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.Data.WrongObjectVisualization, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
+  - TypeName: AmayaSoft.Numbers.CatchNumber.Data.WrongObjectVisualizationData, Assembly-CSharp
+    IsCustom: 0
+    Emit: 1
