@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 08c92877cec7eed4f84790100906b6ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8321340209978966418
+    second: PopItems_1_GManBodyH
+  - first:
+      213: -6232428383163757298
+    second: PopItems_1_MeteorBlik1
+  - first:
+      213: -1110811268700536728
+    second: PopItems_1_MeteorBody
+  - first:
+      213: -7718038711743348819
+    second: PopItems_1_MeteorBlik2
+  - first:
+      213: -4263916654997218943
+    second: PopItems_1_HatConus
+  - first:
+      213: 5942741037411619409
+    second: PopItems_1_Stars
+  - first:
+      213: -8860885630555896709
+    second: PopItems_1_LollipopDec
+  - first:
+      213: 7909180843952755551
+    second: PopItems_1_GmanSmileH
+  - first:
+      213: 2862911368408868085
+    second: PopItems_1_HatCapH
+  - first:
+      213: -6193076022507296962
+    second: PopItems_1_9
+  - first:
+      213: 6192565006485932934
+    second: PopItems_1_HatLine
+  - first:
+      213: -4412634664475513616
+    second: PopItems_1_GManDecH
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PopItems_1_GManBodyH
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 159
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 158, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142dac15b93c35645b8a1a0a9a8b9bfc
+      internalID: -8321340209978966418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_MeteorBlik1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 255
+        height: 255
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71875dd1acb2ae459d148460d17b380
+      internalID: -6232428383163757298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_MeteorBody
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 257
+        width: 80
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4101d225b27947952b6f1183ba0a9
+      internalID: -1110811268700536728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_MeteorBlik2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 262
+        height: 98
+      alignment: 9
+      pivot: {x: 0.096317574, y: 0.41615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194a1a9f425f1e4448099169d61c4ca3
+      internalID: -7718038711743348819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_HatConus
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 211
+        width: 232
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 229, y: 41, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a12db73d9c484c8c2da961f29e956
+      internalID: -4263916654997218943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_Stars
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 156
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e901bdf88cd594d893afc8ba3c58b7
+      internalID: 5942741037411619409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_LollipopDec
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 7
+        width: 148
+        height: 202
+      alignment: 9
+      pivot: {x: 0.4234584, y: 0.0015799173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d19cc214e80ae4488df507882f7493
+      internalID: -8860885630555896709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_GmanSmileH
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 144
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: 0.272909, y: 0.09373169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c0fa0e1824194f910a10beac2eeaa
+      internalID: 7909180843952755551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_HatCapH
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 203
+        height: 85
+      alignment: 9
+      pivot: {x: 1, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28995d4abe512b443a50b0f3d0183875
+      internalID: 2862911368408868085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 133
+        height: 154
+      alignment: 9
+      pivot: {x: 0, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a233a3698b4a7d458a62413fac0986d
+      internalID: -6193076022507296962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_HatLine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 166
+        height: 62
+      alignment: 9
+      pivot: {x: 0.022673517, y: 0.5701532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c63b6e088b2bb4cae8a1bd7efbc77f
+      internalID: 6192565006485932934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_1_GManDecH
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 35
+        height: 54
+      alignment: 9
+      pivot: {x: 0.383, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d8e040ed83154e98c086caffd419b
+      internalID: -4412634664475513616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

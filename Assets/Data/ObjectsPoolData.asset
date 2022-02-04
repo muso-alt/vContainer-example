@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: ObjectsPoolData
   m_EditorClassIdentifier: 
   _spawnableObjects:
-  - {fileID: 4327812346281939192, guid: 26c1d6ed269dd9c4b9a2103b3c65c578, type: 3}
+  - {fileID: 1893112314273822458, guid: 8481a2ee1a5ca154eb4e7950ee783093, type: 3}
+  - {fileID: 1893112314273822458, guid: dea826b610a603b4791f303cea486fbc, type: 3}
+  - {fileID: 7008296100124682034, guid: 8fa986c519ed58d4d8f6b58a9c5c1ccb, type: 3}

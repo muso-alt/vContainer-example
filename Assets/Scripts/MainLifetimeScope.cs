@@ -23,7 +23,7 @@ namespace DefaultNamespace
         {
             builder.Register<TapModel>(Lifetime.Singleton);
             builder.Register<ScoreChanger>(Lifetime.Singleton);
-            builder.Register<PointSpawner>(Lifetime.Singleton);
+            builder.Register<PopItemSpawner>(Lifetime.Singleton);
             
             builder.RegisterComponent(_helloView);
             builder.RegisterComponent(_objectsPool);

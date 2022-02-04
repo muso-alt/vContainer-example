@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 89e06e68467c6824498973d371735767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7255239105055240519
+    second: PopItems_Background_PlanetRing
+  - first:
+      213: -9054230630503500682
+    second: PopItems_Background_MountainTop
+  - first:
+      213: 4495466640864569888
+    second: PopItems_Background_PlanetTexture1
+  - first:
+      213: -3970702638499785241
+    second: PopItems_Background_PlanetTexture2
+  - first:
+      213: -8167201961715878321
+    second: PopItems_Background_FishSilluet
+  - first:
+      213: 3242055916821530995
+    second: PopItems_Background_MeteorShadow
+  - first:
+      213: 1735185411571706590
+    second: PopItems_Background_Snekkles
+  - first:
+      213: -1987284449396321458
+    second: PopItems_Background_Stars
+  - first:
+      213: 5240219154614564603
+    second: PopItems_Background_Sweety
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PopItems_Background_PlanetRing
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 332
+        height: 117
+      alignment: 9
+      pivot: {x: 1, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208d09600cb7d8344a3280fbcdd54983
+      internalID: 7255239105055240519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_MountainTop
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 285
+        width: 176
+        height: 226
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49347cad3f44b69498676f45ecc3f659
+      internalID: -9054230630503500682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_PlanetTexture1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 285
+        width: 326
+        height: 108
+      alignment: 9
+      pivot: {x: 0.42973334, y: 0.7183403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1dec8500236e4aaf9a7a63f27ce2a
+      internalID: 4495466640864569888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_PlanetTexture2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 295
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5033953, y: 0.6041013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186413acea6b52499fa4a77ae649f9f
+      internalID: -3970702638499785241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_FishSilluet
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 197
+        width: 200
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4986467, y: 0.0075435196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34144e29cf41494985400cdffa039e9
+      internalID: -8167201961715878321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_MeteorShadow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 215
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d2b76d20be11b458d44aa6c8372bc4
+      internalID: 3242055916821530995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_Snekkles
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 96
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6cea57c4f7daf41bb13b9fff35ef61
+      internalID: 1735185411571706590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_Stars
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507b29403c811244bde9f7c80882164
+      internalID: -1987284449396321458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopItems_Background_Sweety
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 122
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b722706e3049d0d489e279167ea3d6d6
+      internalID: 5240219154614564603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
