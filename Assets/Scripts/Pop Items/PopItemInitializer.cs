@@ -39,7 +39,7 @@ namespace Pop_Items
             }
             
             popItem.SetObjectCorrect(_popItemsData.CorrectAnswerSprite);
-            popItem.Tapped += _tapProxy.CorrectTapDetected;
+            popItem.InitializeTapProxy(_tapProxy);
         }
 
         private bool CanCreateCorrectPopItem()
@@ -51,7 +51,7 @@ namespace Pop_Items
         
         private void ConfigurePosition(Transform item)
         {
-            item.position = new Vector3(GetNewPosition(), -8f);
+            item.position = new Vector3(GetNewPosition(), -11f);
         }
 
         public void Dispose()
