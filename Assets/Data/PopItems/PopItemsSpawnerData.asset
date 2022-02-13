@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3ae0f94c1b496da35b14048f2cfa40, type: 3}
+  m_Name: PopItemsSpawnerData
+  m_EditorClassIdentifier: 
+  _correctAnswerSprite: {fileID: 5942741037411619409, guid: 08c92877cec7eed4f84790100906b6ad,
+    type: 3}
+  frequencyOfCorrectObjects: 66.5
+  _objects:
+  - {fileID: 7008296100124682034, guid: 8fa986c519ed58d4d8f6b58a9c5c1ccb, type: 3}
+  - {fileID: 1893112314273822458, guid: dea826b610a603b4791f303cea486fbc, type: 3}
+  - {fileID: 1893112314273822458, guid: 8481a2ee1a5ca154eb4e7950ee783093, type: 3}

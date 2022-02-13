@@ -50,15 +50,35 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Data\ObjectsPoolData.cs" />
-     <Compile Include="Assets\Scripts\GamePresenter.cs" />
-     <Compile Include="Assets\Scripts\HelloView.cs" />
-     <Compile Include="Assets\Scripts\MainLifetimeScope.cs" />
-     <Compile Include="Assets\Scripts\PopItem.cs" />
-     <Compile Include="Assets\Scripts\PopItemSpawner.cs" />
-     <Compile Include="Assets\Scripts\ScoreChanger.cs" />
-     <Compile Include="Assets\Scripts\Spawner\Pooler.cs" />
-     <Compile Include="Assets\Scripts\TapModel.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\BlockInitializer.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\Data\BlocksData.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\Data\HeroData.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\GamePresenter.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\HeroInitializer.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\MainView.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\MakeWayJumpLifetimeScope.cs" />
+     <Compile Include="Assets\Scripts\Make Way Jump\Spawner\Spawner.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\CameraBorders.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\CameraCorners.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Data\PopItemsSpawnerData.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Interfaces\IInitializer.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemInitializer.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemMain.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemTapProxy.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemsLifetimeScope.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemsPooler.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemsPresenter.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemsSpawner.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\PopItemsView.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\Data\ObjectsPoolData.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\GamePresenter.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\HelloView.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\MainLifetimeScope.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\PopItem.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\PopItemSpawner.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\ScoreChanger.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\Spawner\Pooler.cs" />
+     <Compile Include="Assets\Scripts\VContainer-example\TapModel.cs" />
      <None Include="Assets\Shaders\GradientShader.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/User/Documents/GitHub/vContainer-example/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

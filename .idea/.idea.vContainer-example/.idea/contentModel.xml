@@ -76,19 +76,53 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Data" t="Include">
-            <e p="ObjectsPoolData.cs" t="Include" />
+          <e p="Make Way Jump" t="Include">
+            <e p="BlockInitializer.cs" t="Include" />
+            <e p="Data" t="Include">
+              <e p="BlocksData.cs" t="Include" />
+              <e p="HeroData.cs" t="Include" />
+            </e>
+            <e p="GamePresenter.cs" t="Include" />
+            <e p="HeroInitializer.cs" t="Include" />
+            <e p="MainView.cs" t="Include" />
+            <e p="MakeWayJumpLifetimeScope.cs" t="Include" />
+            <e p="Spawner" t="Include">
+              <e p="Spawner.cs" t="Include" />
+            </e>
           </e>
-          <e p="GamePresenter.cs" t="Include" />
-          <e p="HelloView.cs" t="Include" />
-          <e p="MainLifetimeScope.cs" t="Include" />
-          <e p="PopItem.cs" t="Include" />
-          <e p="PopItemSpawner.cs" t="Include" />
-          <e p="ScoreChanger.cs" t="Include" />
-          <e p="Spawner" t="Include">
-            <e p="Pooler.cs" t="Include" />
+          <e p="Pop Items" t="Include">
+            <e p="CameraBorders.cs" t="Include" />
+            <e p="CameraCorners.cs" t="Include" />
+            <e p="Data" t="Include">
+              <e p="PopItemsSpawnerData.cs" t="Include" />
+            </e>
+            <e p="Interfaces" t="Include">
+              <e p="IInitializer.cs" t="Include" />
+            </e>
+            <e p="PopItemInitializer.cs" t="Include" />
+            <e p="PopItemMain.cs" t="Include" />
+            <e p="PopItemsLifetimeScope.cs" t="Include" />
+            <e p="PopItemsPooler.cs" t="Include" />
+            <e p="PopItemsPresenter.cs" t="Include" />
+            <e p="PopItemsSpawner.cs" t="Include" />
+            <e p="PopItemsView.cs" t="Include" />
+            <e p="PopItemTapProxy.cs" t="Include" />
           </e>
-          <e p="TapModel.cs" t="Include" />
+          <e p="vContainer-example" t="Include">
+            <e p="Data" t="Include">
+              <e p="ObjectsPoolData.cs" t="Include" />
+            </e>
+            <e p="GamePresenter.cs" t="Include" />
+            <e p="HelloView.cs" t="Include" />
+            <e p="MainLifetimeScope.cs" t="Include" />
+            <e p="PopItem.cs" t="Include" />
+            <e p="PopItemSpawner.cs" t="Include" />
+            <e p="ScoreChanger.cs" t="Include" />
+            <e p="Spawner" t="Include">
+              <e p="Pooler.cs" t="Include" />
+            </e>
+            <e p="TapModel.cs" t="Include" />
+          </e>
         </e>
         <e p="Shaders" t="Include">
           <e p="GradientShader.shader" t="Include" />
