@@ -1,7 +1,7 @@
-﻿using Pop_Items.Data;
+﻿using UnityEngine;
+
+using Pop_Items.Data;
 using Pop_Items.Interfaces;
-using UnityEngine;
-using UnityEngine.Assertions;
 
 namespace Pop_Items
 {
@@ -13,6 +13,9 @@ namespace Pop_Items
         private float _minX = float.MinValue;
         private float _maxX = float.MaxValue;
         private float _lastPosition = float.MaxValue;
+
+        private const float StartVerticalPosition = -11f;
+        private const float HundredForFrequency = 101f;
 
         public PopItemInitializer(PopItemTapProxy tapProxy, PopItemsSpawnerData popItemsData)
         {
@@ -42,16 +45,20 @@ namespace Pop_Items
             popItem.InitializeTapProxy(_tapProxy);
         }
 
+        /// <summary>
+        /// Get frequency bool type
+        /// </summary>
+        /// <returns></returns>
         private bool CanCreateCorrectPopItem()
         {
-            var randomValue = Random.Range(0, 101);
+            var randomValue = Random.Range(0, HundredForFrequency);
 
             return randomValue <= _popItemsData.FrequencyOfCorrectObjects;
         }
         
         private void ConfigurePosition(Transform item)
         {
-            item.position = new Vector3(GetNewPosition(), -11f);
+            item.position = new Vector3(GetNewPosition(), StartVerticalPosition);
         }
 
         public void Dispose()

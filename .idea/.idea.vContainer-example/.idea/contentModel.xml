@@ -96,6 +96,7 @@
             <e p="Data" t="Include">
               <e p="PopItemsSpawnerData.cs" t="Include" />
             </e>
+            <e p="FillBarView.cs" t="Include" />
             <e p="Interfaces" t="Include">
               <e p="IInitializer.cs" t="Include" />
             </e>
@@ -107,6 +108,7 @@
             <e p="PopItemsSpawner.cs" t="Include" />
             <e p="PopItemsView.cs" t="Include" />
             <e p="PopItemTapProxy.cs" t="Include" />
+            <e p="ScoreModel.cs" t="Include" />
           </e>
           <e p="vContainer-example" t="Include">
             <e p="Data" t="Include">

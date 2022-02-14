@@ -1,7 +1,8 @@
-﻿using Pop_Items.Data;
-using Pop_Items.Interfaces;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Assertions;
+
+using Pop_Items.Data;
+using Pop_Items.Interfaces;
 
 namespace Pop_Items
 {
@@ -33,6 +34,7 @@ namespace Pop_Items
             
             Assert.IsNotNull(popItem, "popItem != null");
 
+            popItem.OnResetted -= ReturnPopItem;
             popItem.OnResetted += ReturnPopItem;
             
             _initializer.Initialize(popItem);

@@ -20,10 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3839685-3bac-45db-b745-0e657e241834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Mechanics/Pop Items/Мeteorite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Mechanics/Pop Items/Мeteorite.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Popping Items.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Popping Items.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirenix.OdinValidator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinValidator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.CompatibilityLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.CompatibilityLayer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.Modules.UnityMathematics.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.Modules.UnityMathematics.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +73,21 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Make Way Jump/BlockInitializer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsViewer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsMain.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPooler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemTapProxy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/CorrectObjectsInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraBorders.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraCorners.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces/IInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPooler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" />
       </list>
     </option>
   </component>
@@ -121,6 +141,7 @@
       <workItem from="1644065885327" duration="4684000" />
       <workItem from="1644736535019" duration="3516000" />
       <workItem from="1644757112431" duration="5613000" />
+      <workItem from="1644813320555" duration="7877000" />
     </task>
     <servers />
   </component>
@@ -157,10 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644764446201" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1644765057687">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1644813444837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-145.1920.1040@0.0.1920.1040" timestamp="1643963007780" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-145.1920.1040@0.0.1920.1040" timestamp="1644813444837" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644765057687" />
   </component>
 </project>

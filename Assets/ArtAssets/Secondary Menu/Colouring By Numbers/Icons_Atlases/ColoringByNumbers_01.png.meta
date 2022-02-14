@@ -1,0 +1,7489 @@
+fileFormatVersion: 2
+guid: 2f8a3aeb79c55a844984a230c075c488
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6160528817434426528
+    second: Frame
+  - first:
+      213: 1439632504756136384
+    second: Bee_wing_01
+  - first:
+      213: 4256087745660381640
+    second: Bee_wing_02
+  - first:
+      213: 5857297266162089372
+    second: Bee_head
+  - first:
+      213: 3300965145921679553
+    second: Bee_bush_04
+  - first:
+      213: -5461633288540651526
+    second: Bee_bush_02
+  - first:
+      213: 588949959218310227
+    second: Grasshoper_BG
+  - first:
+      213: 8322981552646899070
+    second: Grasshoper_stone_02
+  - first:
+      213: 3986792467761714508
+    second: Grasshoper_grass_bg
+  - first:
+      213: -6499736416414259246
+    second: Grasshoper_stone_01
+  - first:
+      213: 4234173496706773542
+    second: Grasshoper_grass_fg
+  - first:
+      213: 1177517477876437593
+    second: Ant_ground
+  - first:
+      213: -2376751913390273471
+    second: Bee_bush_03
+  - first:
+      213: 434100037459217409
+    second: Bee_hair
+  - first:
+      213: -3187975919209503553
+    second: Bee_bush_01
+  - first:
+      213: 2115330247158362674
+    second: Grasshoper_body
+  - first:
+      213: -3750073693907774060
+    second: Grasshoper_legs
+  - first:
+      213: 3603054487741855929
+    second: Grasshoper_head
+  - first:
+      213: -8967381239560523736
+    second: Spider_butt
+  - first:
+      213: -6714863398811068300
+    second: Spider_head
+  - first:
+      213: -8967924165814766998
+    second: Spider_spot
+  - first:
+      213: -6985989543154907557
+    second: Ant_head
+  - first:
+      213: -8040989560691557439
+    second: Camel_cloud_02
+  - first:
+      213: -5843579709052539956
+    second: Cat_bush_02
+  - first:
+      213: 3688045691181316463
+    second: Spider_cloud_02
+  - first:
+      213: -2142025638918693575
+    second: Spider_cloud_01
+  - first:
+      213: -8453445029177095446
+    second: Spider_body
+  - first:
+      213: 7751378510050153784
+    second: Spider_water
+  - first:
+      213: 7839419489107605752
+    second: Cat_innerEar_02
+  - first:
+      213: -2275166923389463702
+    second: Mouse_buterflySpot_01
+  - first:
+      213: -3386111619098784998
+    second: Cat_Tail
+  - first:
+      213: 4134175295134306012
+    second: Ant_bush
+  - first:
+      213: 1620765290669528297
+    second: Ant_grass_fg
+  - first:
+      213: -8236573006133175127
+    second: Cat_innerEar_01
+  - first:
+      213: 885530326110662947
+    second: Mouse_buterflySpot_02
+  - first:
+      213: 2836415700458676943
+    second: Mouse_buterflySpot_03
+  - first:
+      213: -610013988523083560
+    second: Mouse_bow
+  - first:
+      213: -5681567470750210776
+    second: Turkey_beak_01
+  - first:
+      213: -300629905486048938
+    second: Ant_bread
+  - first:
+      213: 8078084667793177439
+    second: Dragon_scallop_03
+  - first:
+      213: 7118244344186510857
+    second: Mouse_buterfly
+  - first:
+      213: -9120452773360622459
+    second: Mouse_ear
+  - first:
+      213: -515219907970496782
+    second: Mouse_hill
+  - first:
+      213: -2854083524709276823
+    second: Ant_grass_bg
+  - first:
+      213: 2865260961662875428
+    second: Ant_cookie
+  - first:
+      213: 6236409803406711891
+    second: Ant_body
+  - first:
+      213: -4664284030335396068
+    second: Ant_mustache_01
+  - first:
+      213: -5260946645183244257
+    second: Ant_mustache_02
+  - first:
+      213: 2967740014137115401
+    second: Cat_body
+  - first:
+      213: 711781419914092566
+    second: Mouse_grass
+  - first:
+      213: 8163358335845897955
+    second: Turkey_grass_fg
+  - first:
+      213: -6234869713558284910
+    second: Turkey_tail_02
+  - first:
+      213: 5869397992321428300
+    second: Mouse_stone_02
+  - first:
+      213: -6387824963710931079
+    second: Cat_bush_01
+  - first:
+      213: -7133438129961692540
+    second: Turkey_beak_02
+  - first:
+      213: -8516950783432243128
+    second: Mouse_ground
+  - first:
+      213: 484702855983077558
+    second: Mouse_stone_01
+  - first:
+      213: -6807158733828333723
+    second: Camel_mountain_01
+  - first:
+      213: 5449534958724329900
+    second: Camel_Grass
+  - first:
+      213: 130731161900193601
+    second: Camel_Cactus
+  - first:
+      213: 1364040547537135424
+    second: Camel_hump_top
+  - first:
+      213: 6880562495584111079
+    second: Camel_mountain_02
+  - first:
+      213: 5926198636544147060
+    second: Camel_hump_mid
+  - first:
+      213: -722432156542775060
+    second: Mouse_belly
+  - first:
+      213: 1021504838216806086
+    second: Mouse_mountain
+  - first:
+      213: 2289283954359305864
+    second: Turkey_flowerLeaf
+  - first:
+      213: 1158746661222964730
+    second: Camel_cloud_01
+  - first:
+      213: 4588294376073551392
+    second: Drawing_grass_02
+  - first:
+      213: -4698502107755827833
+    second: Drawing_hand_02
+  - first:
+      213: -5420704162525427666
+    second: Drawing_hand_01
+  - first:
+      213: -500790989316605833
+    second: Cat_ground
+  - first:
+      213: -6593775949032991039
+    second: Mouse
+  - first:
+      213: -6019350962371830561
+    second: Turkey_tail
+  - first:
+      213: 44994669954872919
+    second: Turkey_mountain
+  - first:
+      213: -1368977238550409052
+    second: Camel_hill_02
+  - first:
+      213: 3370047596730930140
+    second: Camel_hill_01
+  - first:
+      213: -3219755232964990938
+    second: Drawing_bow
+  - first:
+      213: -6663771233807969786
+    second: Dragon_mountain_02
+  - first:
+      213: -2520217637900807919
+    second: Turkey_tail_01
+  - first:
+      213: 2841661916828922458
+    second: Pigeon_leg_01
+  - first:
+      213: 3746881283278305190
+    second: Drawing_brush
+  - first:
+      213: 3095031234624588487
+    second: Camel_chest
+  - first:
+      213: 3819029665376872016
+    second: Drawing_hair
+  - first:
+      213: 7377763302471007047
+    second: Cooking_hand_01
+  - first:
+      213: 6058900823807130496
+    second: Turkey_body
+  - first:
+      213: 8936181915067023278
+    second: Turkey_ground
+  - first:
+      213: 6081089519526948599
+    second: Pigeon_leg_02
+  - first:
+      213: 5823568712696797341
+    second: Drawing_table
+  - first:
+      213: 3538941247803053407
+    second: Drawing_grass_01
+  - first:
+      213: -24578899017956897
+    second: Drawing_bush_01
+  - first:
+      213: 3734446209455268811
+    second: Drawing_red
+  - first:
+      213: -465162149291830319
+    second: Cooking_bush
+  - first:
+      213: -1491709980257698304
+    second: Cooking_wall_01
+  - first:
+      213: 7098786216726833344
+    second: Cooking_spoon
+  - first:
+      213: 4317655376936760585
+    second: Turkey_cloud
+  - first:
+      213: -1540514199054466764
+    second: Turkey_flower
+  - first:
+      213: 3372413172742876530
+    second: Turkey_belly
+  - first:
+      213: -6285532725156376212
+    second: Camel_hat
+  - first:
+      213: -146429647675951866
+    second: Drawing_bush_02
+  - first:
+      213: -5609979536801033242
+    second: Drawing_body
+  - first:
+      213: -5912527786379454539
+    second: Drawing_paper
+  - first:
+      213: 8702906504057964991
+    second: Cooking_green
+  - first:
+      213: -5243675147876878491
+    second: Cooking_plate
+  - first:
+      213: -6888403975525045551
+    second: Sleeping_hand
+  - first:
+      213: 7745964267076443347
+    second: Cooking_sky
+  - first:
+      213: -329371876726983414
+    second: Cooking_floor_02
+  - first:
+      213: -120410572231717655
+    second: Cooking_floor_03
+  - first:
+      213: -1276831362817400010
+    second: Dragon_star
+  - first:
+      213: -8135569762198823396
+    second: Dragon_candy_01
+  - first:
+      213: -2205846986961600934
+    second: Dragon_candy_03
+  - first:
+      213: -8131000647365069760
+    second: Dragon_candy_04
+  - first:
+      213: 5411523732028059453
+    second: Dragon_tooth_01
+  - first:
+      213: -6484208875990562978
+    second: Cooking_hand_02
+  - first:
+      213: 6701049049600932395
+    second: Cooking_table
+  - first:
+      213: -3463121207470765082
+    second: Sleeping_blanket_01
+  - first:
+      213: -609475838711812327
+    second: Camel_body
+  - first:
+      213: 5887037404654408174
+    second: Dragon_tooth_02
+  - first:
+      213: 3189728742501164739
+    second: Cooking
+  - first:
+      213: 3943015198961601702
+    second: Camel_ground
+  - first:
+      213: 5624265447216575366
+    second: Cooking_frame
+  - first:
+      213: 5113057505607823370
+    second: Cooking_floor
+  - first:
+      213: 1160138719371333344
+    second: Drum_stick_ blue
+  - first:
+      213: -8431380811140615788
+    second: Drum_stick_red
+  - first:
+      213: 1439242098964622543
+    second: Drum_clous
+  - first:
+      213: 2885299604409600156
+    second: Cooking_floor_01
+  - first:
+      213: -1166252732602008486
+    second: Dragon_lollypop
+  - first:
+      213: -4794991756941123657
+    second: Dragon_mountainTop_02
+  - first:
+      213: 6392810294465541273
+    second: Dragon_mountainTop_01
+  - first:
+      213: -2609295364155558464
+    second: Dragon_scallop_01
+  - first:
+      213: -6343119357715482699
+    second: Sleeping_curtains
+  - first:
+      213: 5457525982274091832
+    second: Sleeping_blanket_02
+  - first:
+      213: 8001305582751967540
+    second: Teeth_washingMaching
+  - first:
+      213: 1933275773599226111
+    second: Teeth_tshirt
+  - first:
+      213: -3765154917784875793
+    second: Xylophone_03
+  - first:
+      213: -2562519678325734721
+    second: Dragon_candy_02
+  - first:
+      213: -6056462460932333559
+    second: Drum_bush_01
+  - first:
+      213: -56652876993706837
+    second: Drum_bush_02
+  - first:
+      213: 8034636153465039839
+    second: Cooking_hairPin
+  - first:
+      213: 8999801927169359118
+    second: Cooking_Soup
+  - first:
+      213: -9054657817535367430
+    second: Sleeping_pillow
+  - first:
+      213: -1001158933409525783
+    second: Sleeping_moon
+  - first:
+      213: 7765737826233783831
+    second: Sleeping_blanket_red
+  - first:
+      213: 5301604582117066770
+    second: Teeth_rouind_02
+  - first:
+      213: 6150773993930837498
+    second: Teeth_floor
+  - first:
+      213: 1209066035070627739
+    second: Teeth_star
+  - first:
+      213: -9108625698231335503
+    second: Teeth_round_01
+  - first:
+      213: 8758173524387776198
+    second: Xylophone_floor_violet
+  - first:
+      213: 1935160630733002725
+    second: Piano_leg_01
+  - first:
+      213: 1027469516441047568
+    second: Xylophone_stick_01
+  - first:
+      213: -1308987415094693727
+    second: Xylophone_stick_02
+  - first:
+      213: -1781068072545837593
+    second: Xylophone_02
+  - first:
+      213: 1744698265896756044
+    second: Xylophone_01
+  - first:
+      213: 1757255013898973074
+    second: Drawing_face
+  - first:
+      213: 8500593089405757180
+    second: Drum_grass
+  - first:
+      213: -656881324936806081
+    second: Sleeping_bush
+  - first:
+      213: 3089167680803168914
+    second: Xylophone_leg_02
+  - first:
+      213: 3915024209095754518
+    second: Dragon_Scallop_05
+  - first:
+      213: 8892858786972707994
+    second: Piano_floor_pink
+  - first:
+      213: 15675532123109973
+    second: Piano_leg_02
+  - first:
+      213: -3829342322055723847
+    second: Xylophone_floor_pink
+  - first:
+      213: 7754988021806779701
+    second: Bell_note_02
+  - first:
+      213: 4125241387182750702
+    second: Cooking_face
+  - first:
+      213: 5243674029975898496
+    second: Sleeping_face
+  - first:
+      213: 4933560209502084301
+    second: Teeth_washingMachineTop
+  - first:
+      213: 6477677974638145981
+    second: Teeth_washingMachine_02
+  - first:
+      213: -4627924471206798049
+    second: Teeth_
+  - first:
+      213: 5778869553966888559
+    second: Xylophone_leg_01
+  - first:
+      213: 7563361230835234475
+    second: Piano_leg_03
+  - first:
+      213: 4139177768136006907
+    second: Party_bow
+  - first:
+      213: -5937758234053594918
+    second: Teeth_teeth
+  - first:
+      213: -6311790961578676361
+    second: Bell_tongue
+  - first:
+      213: -1595297332467441621
+    second: Dragon_scallop_02
+  - first:
+      213: -892301806764258416
+    second: Dragon_scallop_04
+  - first:
+      213: -8751488462757030387
+    second: Party_cake
+  - first:
+      213: -1619697319530336793
+    second: Party_mouth
+  - first:
+      213: 8459559308362523295
+    second: Bell__mountainTop_02
+  - first:
+      213: -418053919181190336
+    second: Piano_underKeys
+  - first:
+      213: 6490849222925293289
+    second: ColoringByNumbers_01_179
+  - first:
+      213: 7599446915663471829
+    second: Piano_curtains
+  - first:
+      213: 9134639310917272998
+    second: Xylophone_04
+  - first:
+      213: -8723304809176577352
+    second: Xylophone_05
+  - first:
+      213: 1988930839216023503
+    second: Party_confetti
+  - first:
+      213: -4380596350190945602
+    second: ColoringByNumbers_01_184
+  - first:
+      213: -248583937065020424
+    second: Party_cakeLine
+  - first:
+      213: -1101909151186300024
+    second: Fruits_spot_04
+  - first:
+      213: -4940818531606752518
+    second: Piano_keys_02
+  - first:
+      213: -4728091786874418829
+    second: Piano_keys_01
+  - first:
+      213: 4659057785257023312
+    second: Bell_handle
+  - first:
+      213: 2551264504288189656
+    second: Bell_bottom
+  - first:
+      213: 4795132504745767641
+    second: Fruits_spot_02
+  - first:
+      213: 6566644987800911241
+    second: ColoringByNumbers_01_192
+  - first:
+      213: -6845582479288631525
+    second: Cooking_hair
+  - first:
+      213: 4334622954720311382
+    second: Xylophone_06
+  - first:
+      213: 2380325311339827557
+    second: Piano_face
+  - first:
+      213: -8775745068612928422
+    second: Bell_note_03
+  - first:
+      213: -3546426341993454907
+    second: Bell_Note_01
+  - first:
+      213: -8004031274224689543
+    second: Fruits_spot_01
+  - first:
+      213: 6797627410668125160
+    second: Fruits_scallop_01
+  - first:
+      213: -3890681892994742938
+    second: Sleeping_blanket_03
+  - first:
+      213: 4059981766271011858
+    second: Teeth_body
+  - first:
+      213: -7060598433088363697
+    second: Teeth_hair
+  - first:
+      213: -2247398277884838288
+    second: Party_horn_01
+  - first:
+      213: 4766253826421801488
+    second: Party_curtains
+  - first:
+      213: -5754838210728097774
+    second: ColoringByNumbers_01_205
+  - first:
+      213: -3766544673476281950
+    second: Fruits_tail
+  - first:
+      213: -4189473009032882080
+    second: Fruits_scallop_02
+  - first:
+      213: -1896309675421382816
+    second: ColoringByNumbers_01_208
+  - first:
+      213: -3294956347122624161
+    second: ColoringByNumbers_01_209
+  - first:
+      213: 7980511032017195389
+    second: Party_horn_02
+  - first:
+      213: -6118681344411873288
+    second: Fruits_scallop_03
+  - first:
+      213: 6861925864167183733
+    second: ColoringByNumbers_01_212
+  - first:
+      213: 3874685154314212975
+    second: Piano_base
+  - first:
+      213: -7932057832085501864
+    second: Dragon_CupTop
+  - first:
+      213: -6391841589839114360
+    second: Vegetables_horn_02
+  - first:
+      213: 4301370554571113523
+    second: Fruits_scallop_04
+  - first:
+      213: 343914697486756264
+    second: Xylophone_07
+  - first:
+      213: -8199925776467648037
+    second: Bell_bush_02
+  - first:
+      213: 3111108847875290507
+    second: Bell_mountain_02
+  - first:
+      213: -5364732692411157308
+    second: Bell_bush_01
+  - first:
+      213: -3587974168135096796
+    second: Party_hat
+  - first:
+      213: -5906742521717602650
+    second: Party_belly
+  - first:
+      213: -4034867883674446983
+    second: Party_balloon_02
+  - first:
+      213: -8629990731526691771
+    second: Fruits_apple
+  - first:
+      213: -1447203440724486440
+    second: Vegetables_horn_01
+  - first:
+      213: -8434564835096785573
+    second: Vegetables_spot
+  - first:
+      213: 2549921767803950603
+    second: Vegetables_sopt
+  - first:
+      213: -5875325841830331914
+    second: Bell_mountain_01
+  - first:
+      213: -9402919193664768
+    second: Bell_mountainTop_01
+  - first:
+      213: -8987929457215004614
+    second: Party_face
+  - first:
+      213: 2883094445997174990
+    second: Pigeon_wing_01
+  - first:
+      213: -5177226460959357146
+    second: Vegetables_bush
+  - first:
+      213: -4114802784009672006
+    second: Vegetables_leaf
+  - first:
+      213: 4827133246048823038
+    second: Vegetables_ground
+  - first:
+      213: -2212529939578631188
+    second: Piano
+  - first:
+      213: 5588153185701861173
+    second: Dragon_cup
+  - first:
+      213: 3502335645637889316
+    second: Vegetables_pumpkin
+  - first:
+      213: 6487999753152845460
+    second: Pigeon_roof
+  - first:
+      213: 9164161608489964728
+    second: Pigeon_bush
+  - first:
+      213: 8596328257516912726
+    second: Pigeon_wing_02
+  - first:
+      213: -7443835739056595957
+    second: Stork_beak
+  - first:
+      213: 7356812081961983723
+    second: Dragon_mountain_01
+  - first:
+      213: 7497404013414398962
+    second: Party_balloon_01
+  - first:
+      213: -5664196790078327492
+    second: Fruits_body
+  - first:
+      213: -98710631652793408
+    second: Stork_cloud_03
+  - first:
+      213: -1552905226698263801
+    second: Stork_bag_02
+  - first:
+      213: -1361186113269670063
+    second: Bell
+  - first:
+      213: 2530586426890962418
+    second: Drum_main
+  - first:
+      213: -7330697569677331026
+    second: Drum_upper
+  - first:
+      213: 2240246960148796698
+    second: ColoringByNumbers_01_251
+  - first:
+      213: 2211138477385361484
+    second: Stork_legs
+  - first:
+      213: 6682130703845485728
+    second: Toukan_treeGreen_02
+  - first:
+      213: -7453480358965745501
+    second: Stork_wing_01
+  - first:
+      213: 7288008941102326414
+    second: Pigeon_pipe
+  - first:
+      213: -8083550072382748128
+    second: Drum_mid
+  - first:
+      213: 6701485574414162352
+    second: Pigeon_tree
+  - first:
+      213: -930967202752800381
+    second: Pigeon_envelop
+  - first:
+      213: 457688444708310641
+    second: Stork_cloud_02
+  - first:
+      213: 5868312693787692757
+    second: Stork_main
+  - first:
+      213: -6267825987701731626
+    second: Toukan_body
+  - first:
+      213: -6406073280428148533
+    second: Toukan_bush_01
+  - first:
+      213: -2481514470839896672
+    second: Party_Floor
+  - first:
+      213: -1608746898979142202
+    second: Fruits_Tree
+  - first:
+      213: 4035055087435438880
+    second: Pigeon_house
+  - first:
+      213: -8989962509581319171
+    second: Pigeon_tail
+  - first:
+      213: -8544284509634598397
+    second: Pigeon_chest
+  - first:
+      213: -5071011058125896306
+    second: Pigeon_head
+  - first:
+      213: -567085650960048841
+    second: Dragon_main
+  - first:
+      213: -1130419019309288456
+    second: Party_main
+  - first:
+      213: 6596715226870383351
+    second: Vegetables_main
+  - first:
+      213: -59770048549363680
+    second: Fruits_treeGreen
+  - first:
+      213: 5132836594762954815
+    second: Fruits_head
+  - first:
+      213: 3492184018578404734
+    second: Toukan_beak_03
+  - first:
+      213: 8059518206529229223
+    second: Toukan_beak_02
+  - first:
+      213: -8415756259880586402
+    second: Toukan_bush_02
+  - first:
+      213: 6329428878085558108
+    second: Toukan_belly
+  - first:
+      213: 8090619657859564442
+    second: Stork_bag_01
+  - first:
+      213: -9196452876365578870
+    second: Toukan_eyeSpot
+  - first:
+      213: -90460803558699083
+    second: Toukan_treeGreen_01
+  - first:
+      213: -8205395571424673512
+    second: Toukan_beak_01
+  - first:
+      213: 9009393810948095757
+    second: Toukan_Bush_R
+  - first:
+      213: -2685922652646947387
+    second: Pigeon_treeGreen
+  - first:
+      213: -1566216891170009244
+    second: Pigeon_body
+  - first:
+      213: -3308657548610154415
+    second: Stork_cloud_01
+  - first:
+      213: 1412219072092916045
+    second: ColoringByNumbers_01_286
+  - first:
+      213: -1908106030204740343
+    second: Vegetables_grass_fg
+  - first:
+      213: -3697628204381949007
+    second: Fruits_bush_01
+  - first:
+      213: 2127590708285420741
+    second: Fruits_bush_02
+  - first:
+      213: 3455796043327730965
+    second: Party_box
+  - first:
+      213: 8886322682409645542
+    second: Vegetables_sun
+  - first:
+      213: -2458324427810152319
+    second: Fruits_appleSpot
+  - first:
+      213: -2459553177684637122
+    second: Fruits_cloud
+  - first:
+      213: 8953274468587312337
+    second: Fruits_Ear_01
+  - first:
+      213: 5027416117647676259
+    second: Fruits_Ear_02
+  - first:
+      213: 1151473680321581111
+    second: Toukan_stick
+  - first:
+      213: -3186396565996189672
+    second: Fruits_scallop_05
+  - first:
+      213: -8666029631573405100
+    second: Stork_wing_02
+  - first:
+      213: -266263135688075909
+    second: Stork_wing_03
+  - first:
+      213: -6581741436890031657
+    second: Toukan_legs
+  - first:
+      213: 8849493571160082967
+    second: Bee_body
+  - first:
+      213: 3302372775299131939
+    second: Cat_spot
+  - first:
+      213: -7012247340723004403
+    second: Pigeon_beak
+  - first:
+      213: -7309193434985711468
+    second: Pigeon_Envelope
+  - first:
+      213: 664143874719811161
+    second: Spider_grass
+  - first:
+      213: -3815790558570055318
+    second: Grasshoper_belly
+  - first:
+      213: -6761421666964593469
+    second: Sleeping_hair
+  - first:
+      213: -4909081699981886760
+    second: ColoringByNumbers_01_0
+  - first:
+      213: 8164315808979798185
+    second: Camel_Chest
+  - first:
+      213: -7242057955124644029
+    second: Stork_Mountain
+  - first:
+      213: 3810145710549095627
+    second: Teeth_Tile_2
+  - first:
+      213: -1877019973742042398
+    second: Teeth_Tile
+  - first:
+      213: 232944181334227564
+    second: Party_Candle
+  - first:
+      213: 7516347621553210177
+    second: Bell_MountainTop_R
+  - first:
+      213: -4308549331343642503
+    second: Drum_Stick
+  - first:
+      213: -5499398712915547549
+    second: Piano_Curtain
+  - first:
+      213: -1500019013728792037
+    second: Cooking_frame_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frame
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1873
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 71, y: 75, z: 69, w: 74}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f671378a8b8c0440bb7fad82afa8971
+      internalID: 6160528817434426528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_wing_01
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1868
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d16d8e6f0f0048960f5eb21cae298
+      internalID: 1439632504756136384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_wing_02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1873
+        width: 115
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a035e4df4589ba4ba3f794c7c2d74e8
+      internalID: 4256087745660381640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_head
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1918
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdd3a47b7998ea42900f9d6773c4293
+      internalID: 5857297266162089372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_bush_04
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1944
+        width: 137
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019d21fa9a1d884bad01148622bceef
+      internalID: 3300965145921679553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_bush_02
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1918
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90647a334c81364297a2dde76edeb50
+      internalID: -5461633288540651526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_BG
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1861
+        width: 339
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98376aa2bd3e49a4a81246b98e85f399
+      internalID: 588949959218310227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_stone_02
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1925
+        width: 308
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e38abacdc4f2459ffb8ed03f7e2b9
+      internalID: 8322981552646899070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_grass_bg
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1936
+        width: 212
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e532e501c1d86684489d0ad8b724381d
+      internalID: 3986792467761714508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_stone_01
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1947
+        width: 213
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530fc4f240d862f4c9bab0b409e7539f
+      internalID: -6499736416414259246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_grass_fg
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1976
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12768cbd0ba72e54fa86a048a4e3c7fd
+      internalID: 4234173496706773542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_ground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1534
+        width: 194
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e69b532be2bbc449c1e38b7f049b0f
+      internalID: 1177517477876437593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_bush_03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1819
+        width: 235
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b682e56280e224e84112214e449df9
+      internalID: -2376751913390273471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_hair
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1855
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309e4bf9889ee84389ef00c454343ec
+      internalID: 434100037459217409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_bush_01
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1868
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d3aa9fe1e7924fb8e56048df79405
+      internalID: -3187975919209503553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_body
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1787
+        width: 224
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f37c691407d52d469f912e80dea63b8
+      internalID: 2115330247158362674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_legs
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1758
+        width: 93
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2afbea8f1dc24282cdf067fd5e643
+      internalID: -3750073693907774060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_head
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1805
+        width: 139
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e10e7280d7d8d4eafa3dd407b9253c
+      internalID: 3603054487741855929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_butt
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1781
+        width: 123
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f800965edfb4945b2ffbfffbcc14df
+      internalID: -8967381239560523736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_head
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1851
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97c5afd76f103458e4bc8ecf8797b3
+      internalID: -6714863398811068300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_spot
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1857
+        width: 51
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda7cadb55e3d3f4f90b8cd5eaae1456
+      internalID: -8967924165814766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_head
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1736
+        width: 159
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fc99cd88839b94897599782b1ec190
+      internalID: -6985989543154907557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_cloud_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1827
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b387d21efc4c14cb45ee594d2bc727
+      internalID: -8040989560691557439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_bush_02
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1547
+        width: 157
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c1ef03c19ebc469cceb45e885e191
+      internalID: -5843579709052539956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_cloud_02
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1796
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920b26d7388fdd8489170057946ac09e
+      internalID: 3688045691181316463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_cloud_01
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1766
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa21065ff98334aafbde4517d21b08
+      internalID: -2142025638918693575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_body
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1768
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce31842b2f85c444fa68f922354f2c26
+      internalID: -8453445029177095446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_water
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1768
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d3cf6a4a39de45997688f3d33cd1a
+      internalID: 7751378510050153784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_innerEar_02
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1818
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67971ca58ca024d8e1f9f1dda2ae32
+      internalID: 7839419489107605752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_buterflySpot_01
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1835
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025c8e0b8b67444880a5319fb82c44d
+      internalID: -2275166923389463702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_Tail
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1756
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba73e27d2e3c974a8ce0e23d013c3ec
+      internalID: -3386111619098784998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_bush
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1718
+        width: 161
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5949b2f6f896b05408b82f1040a70def
+      internalID: 4134175295134306012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_grass_fg
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1783
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260645a787896294796810406267fea2
+      internalID: 1620765290669528297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_innerEar_01
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1776
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639860c1c7a80e0408cd536c144f6403
+      internalID: -8236573006133175127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_buterflySpot_02
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1789
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665c1ba443e783f46b1e6f03455b092f
+      internalID: 885530326110662947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_buterflySpot_03
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1795
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03749cc8b23477441ad7b900f384a933
+      internalID: 2836415700458676943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_bow
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1761
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f10f662325f994ba14e64691fd0169
+      internalID: -610013988523083560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_beak_01
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1747
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13080853be09fb4baadcc494d25a00f
+      internalID: -5681567470750210776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_bread
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1754
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8faa110e6d49c24b8e96fee35e51a75
+      internalID: -300629905486048938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_scallop_03
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1769
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d2c2f6db071641857f5471377cc17
+      internalID: 8078084667793177439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_buterfly
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1704
+        width: 149
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05da0c1b2680655408a97525c5add68f
+      internalID: 7118244344186510857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_ear
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1705
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c9b06cefb7b04f9c892928ebd0999
+      internalID: -9120452773360622459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_hill
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1550
+        width: 171
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d46ff898f6aacf4783cc4150f72d42f
+      internalID: -515219907970496782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_grass_bg
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1577
+        width: 81
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e006dee8a59a8c148ab0f1dfae586e83
+      internalID: -2854083524709276823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_cookie
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1596
+        width: 101
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4f867e9bd7154080223114dcce710
+      internalID: 2865260961662875428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_body
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1587
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94356845161754eb14533facd4a5f5
+      internalID: 6236409803406711891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_mustache_01
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1603
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd115e4c13f70c4e8b11a6efec1e549
+      internalID: -4664284030335396068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ant_mustache_02
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1602
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3a05d9af5735418fb26e885cbcd32
+      internalID: -5260946645183244257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_body
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1540
+        width: 313
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f849330ed82fe488cb1c1b8892abb8
+      internalID: 2967740014137115401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_grass
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1655
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc2b30a1e9bc9d459f2289dc53814f5
+      internalID: 711781419914092566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_grass_fg
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1704
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845cce15f63e434db49e18532f15e47
+      internalID: 8163358335845897955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_tail_02
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1709
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98adab988a68994caff7fbe95aa8ec1
+      internalID: -6234869713558284910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_stone_02
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1624
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b90df15fa66e4ebe3ad65df8886cd
+      internalID: 5869397992321428300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_bush_01
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1605
+        width: 83
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd7864a03e34546b700e23de28f08b
+      internalID: -6387824963710931079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_beak_02
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1675
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d062e86d6ba7e448d5bfd7f61d48e9
+      internalID: -7133438129961692540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_ground
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1600
+        width: 340
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033cb45c2a14644998441f371a5084f
+      internalID: -8516950783432243128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_stone_01
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1586
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597df155e0e6e3c45943962c4c4406bd
+      internalID: 484702855983077558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_mountain_01
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1536
+        width: 87
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a1eafbfa143646b7e8dd73817737f
+      internalID: -6807158733828333723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_Grass
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1526
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db927b8207669343ad564a7164c0509
+      internalID: 5449534958724329900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_Cactus
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1538
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7300e0f013cd4bba46db69c3cae26
+      internalID: 130731161900193601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_hump_top
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1558
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66864e404c150644bb42c05d530b9223
+      internalID: 1364040547537135424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_mountain_02
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1494
+        width: 159
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f09eda0137d2549b5ba1951505880b
+      internalID: 6880562495584111079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_hump_mid
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1495
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254fc747aa4aa04aa94aa086b2d9f4a
+      internalID: 5926198636544147060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_belly
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1544
+        width: 89
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b02dac36700542b1cd2eb7e87318a
+      internalID: -722432156542775060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse_mountain
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1423
+        width: 346
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf259237983070f42a1435b442abdd27
+      internalID: 1021504838216806086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_flowerLeaf
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1472
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595283f8fea65c0459e990ef7c4e7a41
+      internalID: 2289283954359305864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_cloud_01
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1539
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c1a9720d6e544e9c97060825f85fb
+      internalID: 1158746661222964730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_grass_02
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1543
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da496424fe997a48a03074b78c03f6b
+      internalID: 4588294376073551392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_hand_02
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1497
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d2a7cf01b10746a642ee5bcd62de7
+      internalID: -4698502107755827833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_hand_01
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1489
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd54f9406f849d4fb3ab73434a4e70f
+      internalID: -5420704162525427666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_ground
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1191
+        width: 132
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9a28fa9f99c44b8a7fe8f2ff63eaf
+      internalID: -500790989316605833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1299
+        width: 201
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0a6aaac4c8d6409e3c8d872169681
+      internalID: -6593775949032991039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_tail
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1449
+        width: 136
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df939012c7ef93c40a512fe8ffe66cc3
+      internalID: -6019350962371830561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_mountain
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1334
+        width: 378
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c8ae65b3e3d2c48aea8a64147aafc7
+      internalID: 44994669954872919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_hill_02
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1398
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845beab3edcdabd4bb9f28206dcb9b03
+      internalID: -1368977238550409052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_hill_01
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1421
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4893cf0c3fa499f4a9cf80ac03ee4fcd
+      internalID: 3370047596730930140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_bow
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1463
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ed28ad3661bc4e9c40933c16d7056
+      internalID: -3219755232964990938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_mountain_02
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1491
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0c664e7b2e7545898d2a332cfb601
+      internalID: -6663771233807969786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_tail_01
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1431
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4fd787f51ece343b68dd60edb3bbe2
+      internalID: -2520217637900807919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_leg_01
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1425
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9d03cb899c2e49b95ed68ccd8afb0
+      internalID: 2841661916828922458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_brush
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1432
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d819a99cc3da047825bd9af1e90d58
+      internalID: 3746881283278305190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_chest
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1421
+        width: 127
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b31571e9a5b224e923c47a7f41f083
+      internalID: 3095031234624588487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_hair
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1223
+        width: 175
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40490c6e702c6fa449cd34ca4da2acae
+      internalID: 3819029665376872016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_hand_01
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1378
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794740061fe7a9489ca5b36d47b20e6
+      internalID: 7377763302471007047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_body
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1142
+        width: 190
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd003a03890104c81dfe4381a5e7dc
+      internalID: 6058900823807130496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_ground
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1283
+        width: 342
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385bc5d703d7a044482a3e2c6ec3cc75
+      internalID: 8936181915067023278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_leg_02
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1396
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f969ea11e64acfc40ac0abb4de119ed4
+      internalID: 6081089519526948599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_table
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1331
+        width: 341
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f17f3d2d673354aa9be93a144b6d21
+      internalID: 5823568712696797341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_grass_01
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1217
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8969bcea5d7c79418c9b56e14f945ec
+      internalID: 3538941247803053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_bush_01
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1202
+        width: 138
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751aa213b30f01c4397924e0f4f27329
+      internalID: -24578899017956897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_red
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1322
+        width: 139
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19153d8be6a16ee4e806743864e503eb
+      internalID: 3734446209455268811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_bush
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1242
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6908fa88e7f9a94c9d758815ca17fed
+      internalID: -465162149291830319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_wall_01
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1251
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db13dc80aaa63e42befb38ff4263b1b
+      internalID: -1491709980257698304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_spoon
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1191
+        width: 52
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9e221544bba304b9c8ef73fb065722
+      internalID: 7098786216726833344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_cloud
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1191
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7370635de47dcf498e702fcc09ab8e0
+      internalID: 4317655376936760585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_flower
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1187
+        width: 71
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2facafefeb7d7854189ec4a5847357ea
+      internalID: -1540514199054466764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_belly
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1187
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab55f8e779a5cfa4aad4db8c020abde7
+      internalID: 3372413172742876530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_hat
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1140
+        width: 185
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf785bfb70350a47977e8b0537092f3
+      internalID: -6285532725156376212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_bush_02
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1216
+        width: 133
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68277fef5d93a41af095459796324c
+      internalID: -146429647675951866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_body
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1217
+        width: 224
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786df08cd9e2ae418c0df939c2a9904
+      internalID: -5609979536801033242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_paper
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1251
+        width: 227
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29476c458b9d5004ca070d6de18f4b3a
+      internalID: -5912527786379454539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_green
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1216
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6cd8389bd3024a9fe926d51230953
+      internalID: 8702906504057964991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_plate
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1166
+        width: 236
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab7924315eb594c8e5e260578fb7b1
+      internalID: -5243675147876878491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_hand
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1166
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34493035a8d2c204db81474ffe763e17
+      internalID: -6888403975525045551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_sky
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1158
+        width: 243
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f0aa2863393540b30e03b2da07e17
+      internalID: 7745964267076443347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_floor_02
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1158
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692ddd9837b154499afdb1106b2a941
+      internalID: -329371876726983414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_floor_03
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1163
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9627df8ebe5a644daf713ccd812c95d
+      internalID: -120410572231717655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_star
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1166
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee2be8722cc3c45aeb5188ef07cf71
+      internalID: -1276831362817400010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_candy_01
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1164
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e8b138ddbc73c40a5642b83d4b60bc
+      internalID: -8135569762198823396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_candy_03
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1167
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c529f0a8e9a540a73887fe584b456
+      internalID: -2205846986961600934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_candy_04
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1168
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7146c75c1f5c21f44811960d34915f6b
+      internalID: -8131000647365069760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_tooth_01
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1188
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a13102217fddb49a6ae8ebb03ae766
+      internalID: 5411523732028059453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_hand_02
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1158
+        width: 119
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93bda639d1ad864abe8605359d2c013
+      internalID: -6484208875990562978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_table
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1145
+        width: 340
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209dd505538befa43b0995736476ca6b
+      internalID: 6701049049600932395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_blanket_01
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1087
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed0eedee45d6ce4eb8d0b025c212b22
+      internalID: -3463121207470765082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_body
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 874
+        width: 232
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d27eee6b426f540a667a3756ca662e
+      internalID: -609475838711812327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_tooth_02
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1174
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94d1a8276999e4dbf53e53dfb66a4a
+      internalID: 5887037404654408174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1085
+        width: 41
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c2b09684c67cf4a8120464353ddcc4
+      internalID: 3189728742501164739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camel_ground
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1019
+        width: 344
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d35ff41b97527459d4a45f738485d7
+      internalID: 3943015198961601702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_frame
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 993
+        width: 114
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2128ef276fa38534292e39f44c06828e
+      internalID: 5624265447216575366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_stick_red
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1096
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117a42654589024795cb3e61fa6439a
+      internalID: -8431380811140615788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_clous
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1080
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec57e69b85ff054ea6aee97560028fe
+      internalID: 1439242098964622543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_floor_01
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1092
+        width: 136
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e977fc145108c34fb70504c7129a8b8
+      internalID: 2885299604409600156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_lollypop
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1091
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156e2b4be008254f9b9aeb7b6d65343
+      internalID: -1166252732602008486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_mountainTop_02
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1095
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f520f21eef44440a2d2886fefdc09f
+      internalID: -4794991756941123657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_mountainTop_01
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1109
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62036068ec0097b40aa9960c209c0d6c
+      internalID: 6392810294465541273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_scallop_01
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1106
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662f63ba9486864c961fd56a97b64bb
+      internalID: -2609295364155558464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_curtains
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1089
+        width: 286
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e1617bdffdf074fa7ac3deb0fce777
+      internalID: -6343119357715482699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_blanket_02
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1082
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cfdc2470633f48926d350ef84eaab
+      internalID: 5457525982274091832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_washingMaching
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1094
+        width: 123
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ccf1268ace25647a567d135d4378d2
+      internalID: 8001305582751967540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_tshirt
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1067
+        width: 142
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51169f1b49b6c43b67b227f01c1971
+      internalID: 1933275773599226111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_03
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1006
+        width: 46
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d25f0051fc5e5429e79fb7ef93af2e
+      internalID: -3765154917784875793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_candy_02
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1092
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af40018050596a64b8e45c96b22b00d7
+      internalID: -2562519678325734721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_bush_01
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1011
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7761c6bdd37964ea357b82e624c5dd
+      internalID: -6056462460932333559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_bush_02
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1007
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345e9c8a73306743be8675b70ccb0a3
+      internalID: -56652876993706837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_hairPin
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1033
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409651c60c5a89549af0df5d0fd986df
+      internalID: 8034636153465039839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_Soup
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1045
+        width: 188
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5686c6e0f6c3c4bad39d27028c8c69
+      internalID: 8999801927169359118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_pillow
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 999
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c86ff476c1d64c8fb0d12f22a6868
+      internalID: -9054657817535367430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_moon
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 996
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75f8d950a01e274db23d60ac32a5320
+      internalID: -1001158933409525783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_blanket_red
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 998
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac4c367e366844b807917509fc8a92
+      internalID: 7765737826233783831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_rouind_02
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1020
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b5322ae9a336f4a877302e9e9ff9ac
+      internalID: 5301604582117066770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_floor
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1012
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f8072a4e3de04fafb08fa773f43b9
+      internalID: 6150773993930837498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_star
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1030
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e07b1a1db4cf954ca68e3a027a2fec7
+      internalID: 1209066035070627739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_round_01
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1035
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae64bfe56763104c915bde64650302f
+      internalID: -9108625698231335503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_floor_violet
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 911
+        width: 77
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6652a7952af33d141b522e1b6b834f4b
+      internalID: 8758173524387776198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_leg_01
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1032
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00c01c08d85d049b08ce6055c48f50
+      internalID: 1935160630733002725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_stick_01
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1031
+        width: 125
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeebd6e41b82e704b957c720582906f0
+      internalID: 1027469516441047568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_stick_02
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 966
+        width: 29
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14708146bb8b9994abe696a019b76fb7
+      internalID: -1308987415094693727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_02
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 965
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe026e54d0a2445ac1cf24770ad2ed
+      internalID: -1781068072545837593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_01
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 998
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a09750a4e74ee49957378c74f4c4bf
+      internalID: 1744698265896756044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drawing_face
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 842
+        width: 225
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb3d27cfc2fd7c42b84415b9542feb7
+      internalID: 1757255013898973074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_grass
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 993
+        width: 134
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c7971f8561804f87137a3829200aa
+      internalID: 8500593089405757180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_bush
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 913
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16454ecd028a6c44f862ed5621aa653b
+      internalID: -656881324936806081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_leg_02
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 942
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c8ccfa6446844fb031b43e6158feb
+      internalID: 3089167680803168914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Scallop_05
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 944
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12f0d5a6d9ea84193f516825d93222
+      internalID: 3915024209095754518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_floor_pink
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 971
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730806def87b2fc44b5e4d77f30fd3cd
+      internalID: 8892858786972707994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_leg_02
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 999
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006eafce8e6bad4baf645ec0303d438
+      internalID: 15675532123109973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_floor_pink
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 972
+        width: 124
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d11e879ff29994b94104d8c6be7e4a
+      internalID: -3829342322055723847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_note_02
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 956
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9339978b911d58409bea469e2d41372
+      internalID: 7754988021806779701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_face
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 843
+        width: 175
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d1908d8ee38b4eb9df4aea48ba600
+      internalID: 4125241387182750702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_face
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 847
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1a18b0f2066b4996b72c7c7596bd9
+      internalID: 5243674029975898496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_washingMachineTop
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 962
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa977dffaf6fa344bf322dff54e0132
+      internalID: 4933560209502084301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_washingMachine_02
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 961
+        width: 91
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada4bee59ce80247a87efbff668225b
+      internalID: 6477677974638145981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 948
+        width: 119
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b77b8a6e8d6845aa1cb349984a4c3
+      internalID: -4627924471206798049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_leg_01
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 942
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761654b1705cd024180b435f564e9e77
+      internalID: 5778869553966888559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_leg_03
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 964
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a1ee7a0e8c5a47b8f8d7c10391fea
+      internalID: 7563361230835234475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_bow
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 977
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d24ebed89211e4289bb7b4d85e7e56
+      internalID: 4139177768136006907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_teeth
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 908
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06f6d2dde507ef40a774be2b93a165d
+      internalID: -5937758234053594918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_tongue
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 901
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914490e18f598347a9db77e111d2f9d
+      internalID: -6311790961578676361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_scallop_02
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 926
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ef542bb92caa4184d44c3c7c2c390
+      internalID: -1595297332467441621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_scallop_04
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 949
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230b9fb85508984ea1b55ece9ca85f8
+      internalID: -892301806764258416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_cake
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 907
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d54d7fadda604e951aba6f6503b5b
+      internalID: -8751488462757030387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_mouth
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 925
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56af60486ad8f5641b3f2b97ae2851ab
+      internalID: -1619697319530336793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell__mountainTop_02
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 908
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e670645e9cdc458d7d6f70be3ae42
+      internalID: 8459559308362523295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_underKeys
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 764
+        width: 40
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdaf3366845701458b8e2ec005b80ec
+      internalID: -418053919181190336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_curtains
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 782
+        width: 43
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca87534dd5d9c4ea6bd6d114bc71e0
+      internalID: 7599446915663471829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_04
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 894
+        width: 173
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de31b526f8b5504586d2acf70f06c22
+      internalID: 9134639310917272998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_05
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 870
+        width: 189
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244018fc6e7af9438979f1e2bada4e4
+      internalID: -8723304809176577352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_confetti
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 934
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2925a4f2b9864d8962daba2fa46a9
+      internalID: 1988930839216023503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_cakeLine
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 906
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dda80fe3f7fbe41a132bad7628519d
+      internalID: -248583937065020424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_spot_04
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 889
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37034cfa9be8b4183fac33c78dbeac
+      internalID: -1101909151186300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_keys_02
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 777
+        width: 23
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d037ea9936080140bcf91b1973f3876
+      internalID: -4940818531606752518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_keys_01
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 824
+        width: 213
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0caac59bc018714bb06877338e21c06
+      internalID: -4728091786874418829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_handle
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 847
+        width: 135
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3dcab1ada9cc47b0bb9828bb76c96
+      internalID: 4659057785257023312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_bottom
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 843
+        width: 193
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eeba75d98773940a6adc42b88b2b5e
+      internalID: 2551264504288189656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_spot_02
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 874
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6243736b19421c48951a1d4fe5ca44f
+      internalID: 4795132504745767641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColoringByNumbers_01_192
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 874
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db98a4d5245f554897e94278bfa334c
+      internalID: 6566644987800911241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_hair
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 658
+        width: 206
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a2520f5ee32234eac0848de5e1bab6
+      internalID: -6845582479288631525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_06
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 777
+        width: 218
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b64366d33acae43bcc4b90d634031c
+      internalID: 4334622954720311382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_face
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 794
+        width: 192
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e312347dde3d42a5d0aa6e2fb3535
+      internalID: 2380325311339827557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_note_03
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 793
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f465a7154e76e44a782fb6a6c5aa09
+      internalID: -8775745068612928422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_Note_01
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 814
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938239cb622183444a471b0e5a2cf797
+      internalID: -3546426341993454907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_spot_01
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 848
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215e4a9f353b08428daa54993186d3c
+      internalID: -8004031274224689543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_scallop_01
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 851
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194be730b99b7649813280c652d3225
+      internalID: 6797627410668125160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_blanket_03
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 651
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bae4559007be048a1fd9a027286742
+      internalID: -3890681892994742938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_body
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 601
+        width: 267
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3a9ba31a5946498f5e8d1ec8ee4d3
+      internalID: 4059981766271011858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_hair
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 590
+        width: 147
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e615e1a7151349b317e7d02a0cb4c
+      internalID: -7060598433088363697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_horn_01
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 762
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b4fd3b0ba55a40a4c1dfbd7f9e37f
+      internalID: -2247398277884838288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_curtains
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 760
+        width: 232
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928cbdc98d33fe4b99a49cd1e17b5dd
+      internalID: 4766253826421801488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_tail
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 791
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc3dd9c8608fcb458ad3b22698669b0
+      internalID: -3766544673476281950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_scallop_02
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 826
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c19d6db5ec5741a3923ea8e9d46ad
+      internalID: -4189473009032882080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColoringByNumbers_01_209
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 740
+        width: 154
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9959ca42d99d8dc4bb4ea5644320db80
+      internalID: -3294956347122624161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_horn_02
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 742
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6aa45a06369a4ea33f884dab2b8d2
+      internalID: 7980511032017195389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_scallop_03
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 802
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf71d6dd4e7b4c4db548d740495f546
+      internalID: -6118681344411873288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_base
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 746
+        width: 178
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876408d5c701e047813367dc45a142e
+      internalID: 3874685154314212975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_CupTop
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 738
+        width: 123
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875aa7e30fecaf74ea5f4df92e3cfb6d
+      internalID: -7932057832085501864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_horn_02
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 748
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7b39f86aba5049a39e4ae783ad2b8
+      internalID: -6391841589839114360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_scallop_04
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 778
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234ff5791c551c4d99b3313b80711ab
+      internalID: 4301370554571113523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylophone_07
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 696
+        width: 243
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc860aaea51f2448a95f01f50a7afc
+      internalID: 343914697486756264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_bush_02
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 661
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4996a0294cbc3349b2333648126a832
+      internalID: -8199925776467648037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_mountain_02
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 646
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8bd55af62b0204a951b29cd111972b
+      internalID: 3111108847875290507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_bush_01
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 619
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32a70f131bc1d449551d962f6ca869
+      internalID: -5364732692411157308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_hat
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 666
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da22d96a989c14582ee830723c7568
+      internalID: -3587974168135096796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_belly
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 677
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17426f68ab5601419d3ee6998860bf1
+      internalID: -5906742521717602650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_balloon_02
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 699
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46afae387eaf0b488a5a19a54d2034a
+      internalID: -4034867883674446983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_apple
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 662
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7cac226bb0ff4c97d6daf20bdb010
+      internalID: -8629990731526691771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_horn_01
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 735
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901adc2182e4c1b4eaa48fa9fc57a510
+      internalID: -1447203440724486440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_spot
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 713
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d345a8efe28e40a6903783b180336
+      internalID: -8434564835096785573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_sopt
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 726
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80abc94eae11bdf4e8c772c25ad2dc8a
+      internalID: 2549921767803950603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_mountain_01
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 608
+        width: 181
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a19f3f106a1fa4191705c94a35a3fb
+      internalID: -5875325841830331914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_mountainTop_01
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 635
+        width: 129
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622856d27c2a19c42b0454e6d9cf2af7
+      internalID: -9402919193664768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_face
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 643
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64626fd59d0a2944daf5486615fac006
+      internalID: -8987929457215004614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_wing_01
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 574
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a88f0d8cbdef4543b5c8491ba418004
+      internalID: 2883094445997174990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_bush
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 685
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96352e4f908cbd64fbf6327ad393360d
+      internalID: -5177226460959357146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_leaf
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 635
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb00a92b9824543ab79af8139f1e21
+      internalID: -4114802784009672006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_ground
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 596
+        width: 39
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaaaa989c4232447ab160999a272827
+      internalID: 4827133246048823038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 308
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a847bcff33a7e47856375445cb003b
+      internalID: -2212529939578631188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_cup
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 501
+        width: 93
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af01f4bfc3a26b48a53f94eec55cd4a
+      internalID: 5588153185701861173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_pumpkin
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 532
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dbb936f5909bc48b292dc9b354cc28
+      internalID: 3502335645637889316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_roof
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 522
+        width: 64
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed6057a733f0445a370e5502b59504
+      internalID: 6487999753152845460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_bush
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 551
+        width: 49
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487ea0ca14a149f4882dc40210ecbf9e
+      internalID: 9164161608489964728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_wing_02
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 536
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbadd577512c7945b9a7d151a318857
+      internalID: 8596328257516912726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_beak
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 637
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f669d519f28b4dbcff9717d7ec6f5
+      internalID: -7443835739056595957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_mountain_01
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 498
+        width: 121
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4928015abbf31478793d483e38a9db
+      internalID: 7356812081961983723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_balloon_01
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 516
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b4ebb498cfa946a113e030a96152f
+      internalID: 7497404013414398962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_body
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 509
+        width: 188
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99c0630a328e94b9ef0dbfee526e1d
+      internalID: -5664196790078327492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_cloud_03
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 611
+        width: 78
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae50394b97f4c42bb840e9cf1d48c2
+      internalID: -98710631652793408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_bag_02
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 602
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4241bc17a4ff384a8ab78fdb1df9c34
+      internalID: -1552905226698263801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 450
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ff2501f35bef4ba5ebcd038bd3efb
+      internalID: -1361186113269670063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_main
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 437
+        width: 235
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f177533144cc9c47a3329f93f3f0e01
+      internalID: 2530586426890962418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_upper
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 515
+        width: 207
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594b70466789ced49b49c95e5b031475
+      internalID: -7330697569677331026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_legs
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 509
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf35f0e19cd24b49a9dcbd98d27e59d
+      internalID: 2211138477385361484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_treeGreen_02
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 495
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415219b4e2058cf4c86c6b91690a7977
+      internalID: 6682130703845485728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_wing_01
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 513
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf42dfc266e204f9e1e963b4be64ac
+      internalID: -7453480358965745501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_pipe
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 489
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc49311008c60d141b78948b2df0b32c
+      internalID: 7288008941102326414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_mid
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 436
+        width: 231
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576261042c608644c8caebf93cfd457e
+      internalID: -8083550072382748128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_tree
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 435
+        width: 185
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c2cc6d59d94854f9767a8cf192ed69
+      internalID: 6701485574414162352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_envelop
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 404
+        width: 168
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04196959eef7a1b44a22dda1dde6b68a
+      internalID: -930967202752800381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_cloud_02
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 410
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95224018c127342805ad8c38fe4051
+      internalID: 457688444708310641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_main
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 318
+        width: 252
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88003254498ce83418b5147758767a33
+      internalID: 5868312693787692757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_body
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 328
+        width: 243
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a89441a9dd534e962bb138b98bc3f
+      internalID: -6267825987701731626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_bush_01
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 232
+        width: 113
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb00a4fd6e02d48930c7d8b3d11c71
+      internalID: -6406073280428148533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_Floor
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 334
+        width: 294
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c146941a5d0314498cb675e706e1c0a
+      internalID: -2481514470839896672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_Tree
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 351
+        width: 234
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5b35860f0aa447a1134eeede17938
+      internalID: -1608746898979142202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_house
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 355
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c533161ede36e4dadeec3001c96190
+      internalID: 4035055087435438880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_tail
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 359
+        width: 106
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0194b7f744f0df4097150fad9efc98f
+      internalID: -8989962509581319171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_chest
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 355
+        width: 142
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605320b2b36977f48a364e27ebff78d6
+      internalID: -8544284509634598397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_head
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 265
+        width: 148
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a1c9046a9b494490a9f6c6468e995
+      internalID: -5071011058125896306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_main
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 253
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c32b8bd03890bf4e8b6777e42713681
+      internalID: -567085650960048841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_main
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 104
+        width: 258
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc900f06c80ee408eefa797e6b5843
+      internalID: -1130419019309288456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_main
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 97
+        width: 278
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c5ac68e45091f41b9d2ae8910244e9
+      internalID: 6596715226870383351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_treeGreen
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 194
+        width: 169
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c83873d0a54faf43b712c97f0b9ce72
+      internalID: -59770048549363680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_head
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 179
+        width: 246
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710069f218cce3349a9b3416b516560f
+      internalID: 5132836594762954815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_beak_03
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 272
+        width: 126
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12dd167c248915459a187c357a55278
+      internalID: 3492184018578404734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_beak_02
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 263
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6e818d3f739ca45b4dd017d2f91388
+      internalID: 8059518206529229223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_bush_02
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 230
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960c11456828504e8dcf21f6a1a5e6a
+      internalID: -8415756259880586402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_belly
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 203
+        width: 205
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77508f418336e46b5c82f8b58a88c0
+      internalID: 6329428878085558108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_bag_01
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 187
+        width: 120
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5157b1f1efcbb39418d1d012a1270e51
+      internalID: 8090619657859564442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_eyeSpot
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 181
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29e2ed21a137b40be3f3dea1590ab3
+      internalID: -9196452876365578870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_treeGreen_01
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 190
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd53fe3815fba6409fed0ab81754313
+      internalID: -90460803558699083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_beak_01
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 187
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85dc427eb3a5c4d8d9250620c5e626
+      internalID: -8205395571424673512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_Bush_R
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 99
+        width: 177
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77169e0f4fa3ef24f9571e53ecfa7aee
+      internalID: 9009393810948095757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_treeGreen
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 63
+        width: 266
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d98c0362ba9084ebb0b549e6545c9c
+      internalID: -2685922652646947387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_body
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 53
+        width: 182
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddbe334f7b0164887c6eddcf186082
+      internalID: -1566216891170009244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_cloud_01
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 75
+        width: 335
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a33c8d7df5204ab6410d207525d60
+      internalID: -3308657548610154415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_grass_fg
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 155
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466b0b03fe3865741b6e3f5a0ae10bb4
+      internalID: -1908106030204740343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_bush_01
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb6922bde27bb43999256459ca4a26
+      internalID: -3697628204381949007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_bush_02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 17
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e30a90b17e6a1498c591feca880ac8
+      internalID: 2127590708285420741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_box
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 19
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2231f853961b6a498cce80d13676650
+      internalID: 3455796043327730965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_sun
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 13
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ac82f601195f458523fa115d1fbd4
+      internalID: 8886322682409645542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_appleSpot
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 19
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1926ec4fce5ae84185a8ee0d1f5c816
+      internalID: -2458324427810152319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_cloud
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 62
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af251cc257e19404a9f879cedbadf6a3
+      internalID: -2459553177684637122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_Ear_01
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 3
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0c7fd8e3218047a997b97537445b8
+      internalID: 8953274468587312337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_Ear_02
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 30
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9095f2ff13d149b3c056b4d35c7c0
+      internalID: 5027416117647676259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_stick
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2
+        width: 257
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8745d5651edcc94f900db8d96983af6
+      internalID: 1151473680321581111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruits_scallop_05
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 11
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b2d2b373c03543a9338713659802f
+      internalID: -3186396565996189672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_wing_02
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 7
+        width: 121
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde7b4f34e80c44e91fcfb9bf195d01
+      internalID: -8666029631573405100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_wing_03
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064b9b1c4730ce4b91d9856c48b86cc
+      internalID: -266263135688075909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toukan_legs
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4
+        width: 125
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924f1214492fe74e8de00c7c71b12dd
+      internalID: -6581741436890031657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bee_body
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1919
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f579da527575414d9a6b616b3253db9
+      internalID: 8849493571160082967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_spot
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1590
+        width: 121
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e55b6f1059174c9c97b69d95fb4e3
+      internalID: 3302372775299131939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_beak
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1753
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6543b86d8f4a9b4ab9793e7e2eb3bb0
+      internalID: -7012247340723004403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_Envelope
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1753
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcd61580c4caf40b4f0e705c00acfc
+      internalID: -7309193434985711468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_grass
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1792
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096ccbd760ea0141ad602f915ead410
+      internalID: 664143874719811161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper_belly
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1778
+        width: 54
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031ee99dffb26094d98ca53c485a3b5d
+      internalID: -3815790558570055318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping_hair
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 858
+        width: 192
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8cb8f9747491468dee4bb30b0707d
+      internalID: -6761421666964593469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColoringByNumbers_01_0
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1085
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120439a56608314d9fa6f98a3f78eb7
+      internalID: -4909081699981886760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stork_Mountain
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 3
+        width: 93
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c31b88892c5b340877dfd3e0ceec75
+      internalID: -7242057955124644029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2
+        width: 25
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbd570dc5bd3448a0305c826fd398a
+      internalID: 3810145710549095627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_Tile
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 2
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2125c716dd5c43a1324a290860312
+      internalID: -1877019973742042398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Party_Candle
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 44
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c81b8e9294cd4aae2a1989a844433
+      internalID: 232944181334227564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bell_MountainTop_R
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec155e3a1b156df44afd0df3301805b6
+      internalID: 7516347621553210177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drum_Stick
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9654484de43534aa32bdd1bc940e0a
+      internalID: -4308549331343642503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piano_Curtain
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a604045faaa34391a792da0af5586
+      internalID: -5499398712915547549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cooking_frame_2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 421
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01639d9c5e80b6e4fb937248c30ede42
+      internalID: -1500019013728792037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

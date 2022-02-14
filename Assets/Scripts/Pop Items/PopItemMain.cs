@@ -1,4 +1,5 @@
 ﻿using System;
+
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
@@ -8,7 +9,6 @@ namespace Pop_Items
     public class PopItemMain : MonoBehaviour, IPointerClickHandler
     {
         [SerializeField] private SpriteRenderer _visualizationRenderer;
-        [SerializeField] private UnityEvent _onTapped;
         [SerializeField] private UnityEvent _onResetted;
         
         public event Action<GameObject> OnResetted;
@@ -24,7 +24,8 @@ namespace Pop_Items
         {
             //Correct tap detected if only tap proxy not null
             _tapProxy?.CorrectTapDetected();
-            _onTapped?.Invoke();
+
+            ResetPopItem();
         }
 
         private void OnTriggerEnter2D(Collider2D other)
@@ -34,8 +35,7 @@ namespace Pop_Items
                 return;
             }
             
-            _onResetted?.Invoke();
-            OnResetted?.Invoke(gameObject);
+            ResetPopItem();
         }
 
         /// <summary>
@@ -47,9 +47,11 @@ namespace Pop_Items
             _tapProxy = tapProxy;
         }
 
-        public void ResetPopItem()
+        private void ResetPopItem()
         {
+            OnResetted?.Invoke(gameObject);
             _tapProxy = null;
+            _onResetted?.Invoke();
         }
     }
 }
