@@ -12,18 +12,16 @@ namespace Pop_Items
         [SerializeField] private UnityEvent _onResetted;
         
         public event Action<GameObject> OnResetted;
-        
-        private PopItemTapProxy _tapProxy;
+        public event Action OnTapped;
 
-        public void SetObjectCorrect(Sprite correctObjectSprite)
+        public void SetSprite(Sprite correctObjectSprite)
         {
             _visualizationRenderer.sprite = correctObjectSprite;
         }
 
         public void OnPointerClick(PointerEventData eventData)
         {
-            //Correct tap detected if only tap proxy not null
-            _tapProxy?.CorrectTapDetected();
+            OnTapped?.Invoke();
 
             ResetPopItem();
         }
@@ -38,19 +36,9 @@ namespace Pop_Items
             ResetPopItem();
         }
 
-        /// <summary>
-        /// If TapProxy initialized in this component then it's correct object
-        /// </summary>
-        /// <param name="tapProxy"></param>
-        public void InitializeTapProxy(PopItemTapProxy tapProxy)
-        {
-            _tapProxy = tapProxy;
-        }
-
         private void ResetPopItem()
         {
             OnResetted?.Invoke(gameObject);
-            _tapProxy = null;
             _onResetted?.Invoke();
         }
     }

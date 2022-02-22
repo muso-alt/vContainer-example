@@ -58,20 +58,19 @@
      <Compile Include="Assets\Scripts\Make Way Jump\MainView.cs" />
      <Compile Include="Assets\Scripts\Make Way Jump\MakeWayJumpLifetimeScope.cs" />
      <Compile Include="Assets\Scripts\Make Way Jump\Spawner\Spawner.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\CameraBorders.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\CameraCorners.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Controllers\PopItemController.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Controllers\PopItemsPresenter.cs" />
      <Compile Include="Assets\Scripts\Pop Items\Data\PopItemsSpawnerData.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\FillBarView.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\Interfaces\IInitializer.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemInitializer.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemMain.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemTapProxy.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemsLifetimeScope.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemsPooler.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemsPresenter.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemsSpawner.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\PopItemsView.cs" />
-     <Compile Include="Assets\Scripts\Pop Items\ScoreModel.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Models\PopItemModel.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Models\PopItemsSpawner.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Models\ScoreModel.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Scope\PopItemsLifetimeScope.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Utility\CameraBorders.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Utility\CameraCorners.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Utility\PopItemsPooler.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Utility\PositionByCameraConfigurator.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Views\FillBarView.cs" />
+     <Compile Include="Assets\Scripts\Pop Items\Views\PopItemMain.cs" />
      <Compile Include="Assets\Scripts\VContainer-example\Data\ObjectsPoolData.cs" />
      <Compile Include="Assets\Scripts\VContainer-example\GamePresenter.cs" />
      <Compile Include="Assets\Scripts\VContainer-example\HelloView.cs" />
@@ -772,6 +771,9 @@
       <Project>{2db0bf14-0a86-548b-0b0c-4ee8c9c681c5}</Project>
       <Name>Sirenix.OdinInspector.CompatibilityLayer</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Scripts\Pop Items\Interfaces" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

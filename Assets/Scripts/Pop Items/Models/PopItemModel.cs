@@ -2,7 +2,7 @@
 
 namespace Pop_Items
 {
-    public class PopItemTapProxy
+    public class PopItemModel
     {
         public event Action OnTapped;
 

@@ -12,6 +12,12 @@ namespace Pop_Items.Data
         [SerializeField] private float _leftOffset = 5f;
         [SerializeField] private float _rightOffset = -3f;
         
+        [SerializeField] private int _countOfSpawningItems;
+        [SerializeField] private float _spawnInterval = 1f;
+        
+        [SerializeField] private float _startVerticalPosition = -11f;
+        [SerializeField] private float _hundredForFrequency = 101f;
+        
         [SerializeField, Range(0f, 100f)] private float frequencyOfCorrectObjects;
         
         [Header("SpawningObjects")]
@@ -23,5 +29,9 @@ namespace Pop_Items.Data
         public float ItemsOffset => _itemsOffset;
         public float LeftOffset => _leftOffset;
         public float RightOffset => _rightOffset;
+        public int CountOfSpawningItems => _countOfSpawningItems;
+        public float SpawnInterval => _spawnInterval;
+        public float StartVerticalPosition => _startVerticalPosition;
+        public float HundredForFrequency => _hundredForFrequency;
     }
 }

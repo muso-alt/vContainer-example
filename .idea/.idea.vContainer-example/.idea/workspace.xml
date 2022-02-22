@@ -20,28 +20,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3839685-3bac-45db-b745-0e657e241834" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/PositionByCameraConfigurator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/PositionByCameraConfigurator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Mechanics/Pop Items/Мeteorite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Mechanics/Pop Items/Мeteorite.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Popping Items.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Popping Items.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinValidator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinValidator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraBorders.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/CameraBorders.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraBorders.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/CameraBorders.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraCorners.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/CameraCorners.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraCorners.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/CameraCorners.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/FillBarView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/FillBarView.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces/IInitializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces/IInitializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMain.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemTapProxy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemTapProxy.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemModel.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPooler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/PopItemsPooler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPooler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/PopItemsPooler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/ScoreModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/ScoreModel.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.CompatibilityLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.CompatibilityLayer.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.Modules.UnityMathematics.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.Modules.UnityMathematics.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +68,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Telegram Desktop/ShapeDropController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/jp.hadashikick.vcontainer@1.9.0/Runtime/Internal/ReflectionInjector.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -75,19 +92,27 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsMain.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemTapProxy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/CorrectObjectsInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraBorders.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/CameraCorners.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces/IInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/FillBarView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemMain.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPooler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsSpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/ScoreModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/PositionByCameraConfigurator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces/IInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs" />
       </list>
     </option>
   </component>
@@ -141,7 +166,7 @@
       <workItem from="1644065885327" duration="4684000" />
       <workItem from="1644736535019" duration="3516000" />
       <workItem from="1644757112431" duration="5613000" />
-      <workItem from="1644813320555" duration="7877000" />
+      <workItem from="1644813320555" duration="24236000" />
     </task>
     <servers />
   </component>
