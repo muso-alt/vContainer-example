@@ -8,21 +8,26 @@ namespace Pop_Items
     {
         private readonly ScoreModel _scoreModel;
         private readonly PopItemModel _popItemModel;
+        private readonly PopItemsSpawner _popItemSpawner;
 
-        public PopItemsPresenter(ScoreModel scoreModel, PopItemModel popItemModel)
+        public PopItemsPresenter(ScoreModel scoreModel, PopItemModel popItemModel, PopItemsSpawner spawner)
         {
             _scoreModel = scoreModel;
             _popItemModel = popItemModel;
+            _popItemSpawner = spawner;
         }
         
         public void Start()
         {
-            _popItemModel.OnTapped += _scoreModel.IncreaseScore;
+            _popItemModel.CorrectAnswerTapped += _scoreModel.IncreaseScore;
+            _popItemModel.Reset += _popItemSpawner.ReturnPopItem;
+            
         }
 
         public void Dispose()
         {
-            _popItemModel.OnTapped -= _scoreModel.IncreaseScore;
+            _popItemModel.CorrectAnswerTapped -= _scoreModel.IncreaseScore;;
+            _popItemModel.Reset -= _popItemSpawner.ReturnPopItem;
         }
     }
 }

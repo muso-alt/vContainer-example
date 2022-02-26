@@ -12,7 +12,7 @@ namespace Pop_Items.Data
         [SerializeField] private float _leftOffset = 5f;
         [SerializeField] private float _rightOffset = -3f;
         
-        [SerializeField] private int _countOfSpawningItems;
+        [SerializeField] private int _countOfSpawningItems = 1;
         [SerializeField] private float _spawnInterval = 1f;
         
         [SerializeField] private float _startVerticalPosition = -11f;

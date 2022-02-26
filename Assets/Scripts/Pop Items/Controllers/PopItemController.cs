@@ -16,17 +16,21 @@ namespace Pop_Items
         
         private readonly PopItemsSpawnerData _popItemsData;
         private readonly PopItemsSpawner _spawner;
+        private readonly PopItemModel _itemModel;
 
-        private bool _canSpawnPopItems;
-        
-        public PopItemController(PopItemsSpawnerData popItemsData, PopItemsSpawner spawner)
+        private bool _canSpawnPopItems = true;
+
+        public PopItemController(PopItemsSpawnerData popItemsData, PopItemsSpawner spawner, PopItemModel itemModel)
         {
             _popItemsData = popItemsData;
             _spawner = spawner;
+            _itemModel = itemModel;
         }
 
-        public async void Start()
+        async void IStartable.Start()
         {
+            _canSpawnPopItems = true;
+            
             _positionByCamera = new PositionByCameraConfigurator(_popItemsData.LeftOffset, _popItemsData.RightOffset,
                 _popItemsData.ItemsOffset);
 
@@ -35,13 +39,16 @@ namespace Pop_Items
                 Initialize(await _spawner.SpawnObject(_popItemsData.CountOfSpawningItems));
                 await Task.Delay(TimeSpan.FromSeconds(_popItemsData.SpawnInterval));
             }
+
         }
         
         private void Initialize(IEnumerable<GameObject> spawnedObjects)
         {
             foreach (var spawnedObject in spawnedObjects)
             {
-                var popItem = spawnedObject.GetComponent<PopItemMain>();
+                spawnedObject.SetActive(true);
+                
+                var popItem = spawnedObject.GetComponent<PopItemView>();
                 
                 Assert.IsNotNull(popItem);
                 
@@ -50,10 +57,14 @@ namespace Pop_Items
                 if (CanCreateCorrectPopItem())
                 {
                     popItem.SetSprite(_popItemsData.CorrectAnswerSprite);
+                    _itemModel.AddPopItem(popItem);
                 }
 
-                popItem.OnResetted -= _spawner.ReturnPopItem;
-                popItem.OnResetted += _spawner.ReturnPopItem;
+                popItem.Triggered -= _itemModel.Triggered;
+                popItem.Triggered += _itemModel.Triggered;
+
+                popItem.Tapped -= _itemModel.CheckClickedPopItem;
+                popItem.Tapped += _itemModel.CheckClickedPopItem;
             }
         }
 
@@ -64,6 +75,7 @@ namespace Pop_Items
 
         public void Dispose()
         {
+            _canSpawnPopItems = false;
             _positionByCamera.ResetToDefault();
             _spawner.Dispose();
         }
