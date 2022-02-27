@@ -20,24 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3839685-3bac-45db-b745-0e657e241834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMainView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMainView.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.vContainer-example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Game Mechanics/Pop Items/Мeteorite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Game Mechanics/Pop Items/Мeteorite.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Popping Items.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Popping Items.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMain.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemView.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.CompatibilityLayer.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirenix.OdinValidator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Sirenix.OdinValidator.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.CompatibilityLayer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.CompatibilityLayer.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.Modules.UnityMathematics.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Sirenix.OdinInspector.Modules.UnityMathematics.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/ScoreModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/ScoreModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsLifetimeScope.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemView.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,17 +83,20 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsPresenter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/PopItemsView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemsView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Utility/PositionByCameraConfigurator.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemInitializer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Interfaces/IInitializer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMain.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemView.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/MainView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemMainView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Scope/PopItemsLifetimeScope.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemsPresenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/ScoreModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Views/PopItemView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Data/PopItemsSpawnerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Controllers/PopItemController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop Items/Models/PopItemsSpawner.cs" />
       </list>
     </option>
   </component>
@@ -150,7 +152,8 @@
       <workItem from="1644757112431" duration="5613000" />
       <workItem from="1644813320555" duration="24236000" />
       <workItem from="1645691484147" duration="2441000" />
-      <workItem from="1645896871446" duration="3660000" />
+      <workItem from="1645896871446" duration="4204000" />
+      <workItem from="1645960036809" duration="4048000" />
     </task>
     <servers />
   </component>
@@ -187,6 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645897575090" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1645964119620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645964119619" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1644764446201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

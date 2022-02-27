@@ -1,26 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using Pop_Items.Data;
 using UnityEngine;
-using UnityEngine.Assertions;
 
 namespace Pop_Items
 {
     public class PopItemModel
     {
-        private const string FinishTag = "Finish";
+        private readonly string _finishTag;
 
-        private List<PopItemView> _subscribedCorrectItems = new List<PopItemView>();
-        
-        public Action<GameObject> Reset;
-        public Action CorrectAnswerTapped;
-        
-        public void Triggered(PopItemView itemView)
+        private readonly List<PopItemView> _subscribedCorrectItems = new List<PopItemView>();
+        public event Action<GameObject> Reset;
+        public event Action CorrectAnswerTapped;
+
+        public PopItemModel(PopItemsSpawnerData popItemData)
         {
-            var collider = itemView.GetComponent<Collider2D>();
-            
-            Assert.IsNotNull(collider, "collider != null");
-
-            if (collider.CompareTag(FinishTag))
+            _finishTag = popItemData.FinishTag;
+        }
+        
+        public void Triggered(Collider2D other, PopItemView itemView)
+        {
+            if (other.CompareTag(_finishTag))
             {
                 ResetPopItem(itemView);
             }

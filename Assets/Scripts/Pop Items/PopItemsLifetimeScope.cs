@@ -12,6 +12,7 @@ namespace Pop_Items
         [SerializeField] private Camera _mainCamera;
         
         [SerializeField] private FillBarView _fillBarView;
+        [SerializeField] private PopItemMainView _popItemMainView;
 
         [SerializeField] private PopItemsSpawnerData _spawnerData;
 
@@ -24,6 +25,7 @@ namespace Pop_Items
             builder.RegisterComponent(_mainCamera);
             builder.RegisterComponent(_spawnerData);
             builder.RegisterComponent(_fillBarView);
+            builder.RegisterComponent(_popItemMainView);
             
             builder.RegisterEntryPoint<PopItemsPresenter>();
             builder.RegisterEntryPoint<PopItemController>();

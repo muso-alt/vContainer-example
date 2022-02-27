@@ -21,13 +21,18 @@ namespace Pop_Items
         {
             _popItemModel.CorrectAnswerTapped += _scoreModel.IncreaseScore;
             _popItemModel.Reset += _popItemSpawner.ReturnPopItem;
-            
+
+            _scoreModel.GameOver += _popItemSpawner.Dispose;
+            _scoreModel.GameOver += _popItemModel.Dispose;
         }
 
         public void Dispose()
         {
             _popItemModel.CorrectAnswerTapped -= _scoreModel.IncreaseScore;;
             _popItemModel.Reset -= _popItemSpawner.ReturnPopItem;
+            
+            _scoreModel.GameOver -= _popItemSpawner.Dispose;
+            _scoreModel.GameOver -= _popItemModel.Dispose;
         }
     }
 }

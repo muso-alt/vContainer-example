@@ -6,7 +6,7 @@ namespace Pop_Items
     {
         private readonly FillBarView _fillBarView;
 
-        public event Action OnScoreReached;
+        public event Action GameOver;
         
         public ScoreModel(FillBarView fillBarView)
         {
@@ -15,18 +15,18 @@ namespace Pop_Items
 
         public void IncreaseScore()
         {
-            if (_fillBarView.SliderMaxValue <= _fillBarView.SliderValue)
+            if (_fillBarView.SliderMaxValue > _fillBarView.SliderValue)
             {
-                ScoreReached();
+                _fillBarView.IncreaseSlider();
                 return;
             }
             
-            _fillBarView.IncreaseSlider();
+            ScoreReached();
         }
 
         private void ScoreReached()
         {
-            OnScoreReached?.Invoke();
+            GameOver?.Invoke();
             _fillBarView.GameCompleted();
         }
     }

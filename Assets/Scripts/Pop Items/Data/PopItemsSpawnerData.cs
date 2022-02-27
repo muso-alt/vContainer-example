@@ -6,6 +6,7 @@ namespace Pop_Items.Data
     public class PopItemsSpawnerData : ScriptableObject
     {
         [SerializeField] private Sprite _correctAnswerSprite;
+        [SerializeField] private string _finishTag = "Finish";
         
         [Header("Configurations Data")]
         [SerializeField] private float _itemsOffset = 4f;
@@ -33,5 +34,6 @@ namespace Pop_Items.Data
         public float SpawnInterval => _spawnInterval;
         public float StartVerticalPosition => _startVerticalPosition;
         public float HundredForFrequency => _hundredForFrequency;
+        public string FinishTag => _finishTag;
     }
 }

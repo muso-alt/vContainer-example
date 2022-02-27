@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -10,8 +9,6 @@ namespace Pop_Items
     public class PopItemsSpawner
     {
         private PopItemsPooler _pooler;
-
-        public event Action<GameObject> Spawned;
         
         public PopItemsSpawner(PopItemsSpawnerData poolData)
         {

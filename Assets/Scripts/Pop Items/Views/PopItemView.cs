@@ -12,7 +12,7 @@ namespace Pop_Items
         [SerializeField] private UnityEvent _onResetted;
         
         public event Action<PopItemView> Tapped;
-        public event Action<PopItemView> Triggered;
+        public event Action<Collider2D, PopItemView> Triggered;
 
         public void SetSprite(Sprite currentSprite)
         {
@@ -26,7 +26,7 @@ namespace Pop_Items
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            Triggered?.Invoke(this);
+            Triggered?.Invoke(other, this);
         }
 
         public void ResetPopItem()

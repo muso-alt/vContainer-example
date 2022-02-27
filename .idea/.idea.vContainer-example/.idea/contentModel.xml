@@ -93,7 +93,6 @@
           <e p="Pop Items" t="Include">
             <e p="Controllers" t="Include">
               <e p="PopItemController.cs" t="Include" />
-              <e p="PopItemsPresenter.cs" t="Include" />
             </e>
             <e p="Data" t="Include">
               <e p="PopItemsSpawnerData.cs" t="Include" />
@@ -103,9 +102,8 @@
               <e p="PopItemsSpawner.cs" t="Include" />
               <e p="ScoreModel.cs" t="Include" />
             </e>
-            <e p="Scope" t="Include">
-              <e p="PopItemsLifetimeScope.cs" t="Include" />
-            </e>
+            <e p="PopItemsLifetimeScope.cs" t="Include" />
+            <e p="PopItemsPresenter.cs" t="Include" />
             <e p="Utility" t="Include">
               <e p="CameraBorders.cs" t="Include" />
               <e p="CameraCorners.cs" t="Include" />
@@ -114,6 +112,7 @@
             </e>
             <e p="Views" t="Include">
               <e p="FillBarView.cs" t="Include" />
+              <e p="PopItemMainView.cs" t="Include" />
               <e p="PopItemView.cs" t="Include" />
             </e>
           </e>

@@ -17,20 +17,35 @@ namespace Pop_Items
         private readonly PopItemsSpawnerData _popItemsData;
         private readonly PopItemsSpawner _spawner;
         private readonly PopItemModel _itemModel;
+        private readonly PopItemMainView _popItemMainView;
+        private readonly ScoreModel _scoreModel;
 
         private bool _canSpawnPopItems = true;
 
-        public PopItemController(PopItemsSpawnerData popItemsData, PopItemsSpawner spawner, PopItemModel itemModel)
+        public PopItemController(PopItemsSpawnerData popItemsData, PopItemsSpawner spawner, PopItemModel itemModel, 
+            PopItemMainView popItemMainView, ScoreModel scoreModel)
         {
             _popItemsData = popItemsData;
             _spawner = spawner;
             _itemModel = itemModel;
+            _popItemMainView = popItemMainView;
+            _scoreModel = scoreModel;
         }
 
-        async void IStartable.Start()
+        public void Start()
+        {
+            StartGame();
+            
+            _popItemMainView.SubscribeToRestartButtonTap(StartGame);
+            _scoreModel.GameOver += StopGame;
+        }
+
+        private async void StartGame()
         {
             _canSpawnPopItems = true;
             
+            ToggleScreenVisualizers(false);
+
             _positionByCamera = new PositionByCameraConfigurator(_popItemsData.LeftOffset, _popItemsData.RightOffset,
                 _popItemsData.ItemsOffset);
 
@@ -39,7 +54,6 @@ namespace Pop_Items
                 Initialize(await _spawner.SpawnObject(_popItemsData.CountOfSpawningItems));
                 await Task.Delay(TimeSpan.FromSeconds(_popItemsData.SpawnInterval));
             }
-
         }
         
         private void Initialize(IEnumerable<GameObject> spawnedObjects)
@@ -75,9 +89,18 @@ namespace Pop_Items
 
         public void Dispose()
         {
-            _canSpawnPopItems = false;
+            StopGame();
             _positionByCamera.ResetToDefault();
             _spawner.Dispose();
+            _popItemMainView.UnSubscribeToRestartButtonTap(StartGame);
+            _scoreModel.GameOver -= StopGame;
+        }
+
+        private void StopGame()
+        {
+            _canSpawnPopItems = false;
+            
+            ToggleScreenVisualizers(true);
         }
 
         /// <summary>
@@ -89,6 +112,12 @@ namespace Pop_Items
             var randomValue = Random.Range(0, _popItemsData.HundredForFrequency);
 
             return randomValue <= _popItemsData.FrequencyOfCorrectObjects;
+        }
+
+        private void ToggleScreenVisualizers(bool toggleValue)
+        {
+            _popItemMainView.ToggleRestartButton(toggleValue);
+            _popItemMainView.ToggleFadeObject(toggleValue);
         }
     }
 }
